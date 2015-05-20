@@ -7,7 +7,7 @@
 
 ######Yields 1 cup
 
-![Not Loading] (http://i.imgur.com/8uK4UiSm.jpg))
+![Not Loading] (http://i.imgur.com/8uK4UiSm.jpg)
 
 ### Ingredients
 
