@@ -52,6 +52,9 @@
 - [x] Egg
 - [x] Basil
 - [x] Rice
+- [x] Ground Chicken
+- [x] Ground Turkey
+- [x] Ground Beef
 
 ---
 
