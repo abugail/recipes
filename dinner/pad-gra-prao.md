@@ -1,6 +1,7 @@
 ## Pad Gra Prao :star::star::star::star::star:
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
+|  *10 mins* | *10 mins*| *20 mins*   |
 
 ![not loading] (http://i.imgur.com/k8qjFL5t.jpg)
 
