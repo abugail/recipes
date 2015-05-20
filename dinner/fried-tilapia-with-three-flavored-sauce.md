@@ -44,6 +44,7 @@
 - [x] Rice
 - [x] Dinner
 - [x] Unrated
+- [x] Actifry
 
 ---
 
