@@ -42,6 +42,11 @@
 - [x] Ground Turkey
 - [x] Ground Beef
 - [x] Unrated
+- [x] Sour
+- [x] Sweet
+- [x] Salty
+- [x] Chicken Wings
+- [x] Fried
 
 ---
 
