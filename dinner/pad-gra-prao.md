@@ -38,4 +38,21 @@
 
 ![not loading](http://i.imgur.com/L2Q0lS9l.png)
 
+---
+
+###### Tags
+- [x] Diet
+- [x] Quick
+- [x] Under 600 cal
+- [x] Thai
+- [x] Spicy
+- [x] Dinner
+- [x] Easy
+- [x] Chris Favourite
+- [x] Egg
+- [x] Basil
+- [x] Rice
+
+---
+
 >*Source:* http://shesimmers.com/2012/05/pad-ka-prao-%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2.html
