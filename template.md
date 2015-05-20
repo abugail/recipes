@@ -1,4 +1,4 @@
-# Title
+# Title :star:
 
 ![Food Image Text](link to picture)
 
