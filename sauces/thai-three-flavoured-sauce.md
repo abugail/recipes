@@ -19,7 +19,7 @@
 * 1/2 cup water
 * 1/3 cup packed brown sugar
 * 1/3 cup fish sauce
-* 1/3 cup [tamarind pulp](website)
+* 1/3 cup [tamarind pulp](https://github.com/abugail/recipes/blob/master/random/tamarind-pulp.md)
 * 2 tablespoons olive oil
 
 > **Pro Tip:** This sauce freezes and thaws beautifully.
