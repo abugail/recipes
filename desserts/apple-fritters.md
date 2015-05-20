@@ -1,4 +1,4 @@
-## Apple Fritters
+## Thai Apple Fritters
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
@@ -46,6 +46,7 @@
 - [x] Fried
 - [x] Actifry
 - [x] Comfort Food
+- [x] Crowdpleaser
 
 ---
 
