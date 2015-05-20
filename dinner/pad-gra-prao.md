@@ -32,7 +32,7 @@
 5. Add the **fish sauce**, **soy sauce**, **pepper**, and **green onion** *(do not add the basil leaves or they will wilt too much)*.
 6. Once the meat is cooked through, check the amount of liquid in the skillet. If it’s too dry, add a little bit of water or sodium-free broth.
 7. In a seperate pan begin to cook the **eggs** sunny side up with dearing hot olive oil and then place a lid over the pan for the last minute to create a thin layer of cooked egg on the top.
-8. Before taking the skillet with the chicken off the heat, add the basil leaves to the mixture and give it a couple of stirs. We only want to wilt the basil with the residual heat that is still in the pan so as not to mute the fragrance of the fresh basil leaves.
+8. Before taking the skillet with the chicken off the heat, add the **basil** leaves to the mixture and give it a couple of stirs. We only want to wilt the basil with the residual heat that is still in the pan so as not to mute the fragrance of the fresh basil leaves.
 9. Serve over rice topped with a Thai style fried egg
 
 
