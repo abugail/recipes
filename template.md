@@ -17,6 +17,7 @@
 
 1. Food
 2. Good
+3. 
 
 ---
 
@@ -31,6 +32,14 @@
 - [x] Thai
 - [x] Needs Nutritional Info
 - [x] Want to Try
-- [x] Rice
 - [x] Dinner
+- [x] Under 600 cal
+- [x] Spicy
+- [x] Chris Favourite
+- [x] Ground Turkey
+- [x] Ground Beef
+
+---
+
+[Source](www.example...)
 
