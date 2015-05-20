@@ -2,6 +2,7 @@
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
+| xx mins    | xx mins      | xx mins     |
 
 ![Food Image Text](link to picture)
 
