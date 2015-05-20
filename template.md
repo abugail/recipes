@@ -50,6 +50,7 @@
 - [x] Chicken Wings
 - [x] Fried
 - [x] Actifry
+- [x] Comfort Food
 
 ---
 
