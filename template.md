@@ -2,12 +2,12 @@
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
-| xx mins    | xx mins      | xx mins     |
+| ? mins    | ? mins      | ? mins     |
 
 
 ######Serves 4
 
-![Food Image Text](link to picture)
+![Not Loading](link to picture)
 
 ### Ingredients
 
@@ -21,6 +21,8 @@
 1. Food
 2. Good
 3. 
+
+![Not Loading](link to picture)
 
 ---
 
