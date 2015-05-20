@@ -13,6 +13,9 @@
 1. Food
 2. Good
 
-<!---
-Tags: diet
--->
+---
+
+###### Tags
+- [x] Diet
+- [x] Quick
+
