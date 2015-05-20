@@ -14,7 +14,7 @@
 * Rice Flour (or All-Purpose)
 * Olive oil to cook
 * 1 cup Jasmine Rice
-* [Thai three flavoured sauce] (www.google.com)
+* [Thai three flavoured sauce] (https://github.com/abugail/recipes/blob/master/sauces/thai-three-flavoured-sauce.md)
 
 > **Pro Tip:** Open up sauce recipe in another window and make simultaneously
 
