@@ -41,6 +41,6 @@
 
 ---
 
-[Source](www.example...)
+[Source](http://shesimmers.com/2010/05/how-to-prepare-tamarind-pulp-for-thai.html)
 
 
