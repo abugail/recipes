@@ -22,5 +22,15 @@
 
 ###### Tags
 - [x] Diet
+- [x] Fish
 - [x] Quick
+- [x] Tilapia
+- [x] Light
+- [x] Easy
+- [x] Sauce
+- [x] Thai
+- [x] Needs Nutritional Info
+- [x] Want to Try
+- [x] Rice
+- [x] Dinner
 
