@@ -1,16 +1,18 @@
-# Title :star:
 
+### Title :star:
 ![Food Image Text](link to picture)
 
 ---
 
-### Ingredients
+#### Ingredients
 
 * item
 * item 2
 
+> **Pro Tip:** this is a special instruction
+
 ---
-### Cooking Instructions
+#### Cooking Instructions
 
 1. Food
 2. Good
