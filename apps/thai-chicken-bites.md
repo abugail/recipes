@@ -1,4 +1,4 @@
-## Title :star::star::star::star::star:
+## Thai Chicken Bites
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
