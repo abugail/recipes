@@ -1,4 +1,8 @@
 ## Title :star::star::star::star::star:
+
+| Prep Time  | Cook Time    | Total Time  |
+| ---------- |:------------:| -----------:|
+
 ![Food Image Text](link to picture)
 
 ### Ingredients
