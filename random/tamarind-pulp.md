@@ -6,6 +6,7 @@
 
 
 ######Yields 2 cups of very concentrated tamarind pulp
+######Author: SheSimmers
 
 ![Not Loading] (http://i.imgur.com/ShCdxpqm.jpg)
 
