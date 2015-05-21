@@ -2,10 +2,10 @@
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
-| ? mins    | 20 mins      | ? mins     |
+| 20 mins    | 20 mins      | 40 mins     |
 
 
-######Serves 16 slices (2 12" pizzas)
+######Serves 16 slices (two 12" pizzas)
 ######Author: Pinch of Yum
 
 ![Not Loading] (http://i.imgur.com/27syucbm.png) 
