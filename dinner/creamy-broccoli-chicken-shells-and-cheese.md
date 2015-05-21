@@ -14,7 +14,7 @@
 
 * 1 medium red Pepper
 * 1 lb Chicken Breast (shredded)
- *4 ½ cups Broccoli (diced)
+* 4 ½ cups Broccoli (diced)
 * ½ tsp Onion powder
 * ¼ tsp Garlic powder (or fresh garlic cloves)
 * 1 ½ cups Reduced Fat Sharp Shredded Cheddar Cheese
