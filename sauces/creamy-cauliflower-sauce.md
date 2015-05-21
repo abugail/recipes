@@ -4,12 +4,12 @@
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
-| ? mins    | ? mins      | ? mins     |
+| 5 mins    | 10 mins      | 15 mins     |
 
 
 ######Yields 5 cups
 
-![Not Loading] ([Imgur](http://i.imgur.com/VgyzMDOm.png)
+![Not Loading] (http://i.imgur.com/VgyzMDOm.png)
 
 ### Ingredients
 
