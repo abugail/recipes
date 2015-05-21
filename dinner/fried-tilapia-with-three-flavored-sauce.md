@@ -1,10 +1,11 @@
-## Fried Tilapia with Thai Three-Favored Sauce :star::star::star::star::star:???
+## Fried Tilapia with Thai Three-Favored Sauce
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 20 mins    | 10 mins      | 30 mins     |
 
 ######Serves 4
+######Author: SheSimmers
 
 ![Not Loading](http://i.imgur.com/ok0IZMpm.jpg)
 
