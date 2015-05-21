@@ -47,31 +47,17 @@
 
 ###### Tags
 - [x] Diet
-- [x] Fish
-- [x] Quick
-- [x] Tilapia
-- [x] Light
 - [x] Easy
 - [x] Sauce
-- [x] Thai
-- [x] Needs Nutritional Info
 - [x] Want to Try
 - [x] Dinner
 - [x] Under 600 cal
-- [x] Spicy
-- [x] Chris Favourite
-- [x] Ground Turkey
-- [x] Ground Beef
+- [x] Under 400 cal
 - [x] Unrated
-- [x] Sour
-- [x] Sweet
-- [x] Salty
-- [x] Chicken Wings
-- [x] Fried
-- [x] Actifry
 - [x] Comfort Food
+- [x] Healthy
 
 ---
 
-[Source](www.example...)
+[Source](http://pinchofyum.com/healthy-chicken-alfredo-pizza)
 
