@@ -1,13 +1,11 @@
 ##Creamy Cauliflower Sauce
 
-#######Author: Pinch of Yum
-
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 5 mins    | 10 mins      | 15 mins     |
 
-
 ######Yields 5 cups
+######Author: Pinch of Yum
 
 ![Not Loading] (http://i.imgur.com/VgyzMDOm.png)
 
