@@ -11,7 +11,7 @@
 
 ### Ingredients
 
-* 1 batch [whole wheat pizza dough](egfawe)
+* 1 batch [whole wheat pizza dough](https://github.com/abugail/recipes/blob/master/random/easy-whole-wheat-pizza-dough.md)
 * 4 cups [creamy cauliflower sauce] (dff)
 * 2 large chicken breasts (shredded)
 * 1 cup shredded Mozzarella
