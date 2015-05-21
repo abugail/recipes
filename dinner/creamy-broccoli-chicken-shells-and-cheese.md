@@ -11,19 +11,19 @@
 
 ### Ingredients
 
-*1 medium red Pepper
-*1 lb Chicken Breast (shredded)
-*4 1/2 cups Broccoli (diced)
-*1/2 tsp Onion powder
-*1/4 tsp Garlic powder (or fresh garlic cloves)
-*1 1/2 cups Reduced Fat Sharp Shredded Cheddar Cheese
-*1/3 cup Parmesan Cheese (finely grated)
-*3 1/2 cups Small Pasta Shells
-*2 1/2 tbsp Unsalted Butter
-*1 tsp, Black Pepper
-*3 cups 1% Milk
-*1/4 cup Whole Wheat Flour
-*(option to add carmelized onion)
+* 1 medium red Pepper
+* 1 lb Chicken Breast (shredded)
+ *4 1/2 cups Broccoli (diced)
+* 1/2 tsp Onion powder
+* 1/4 tsp Garlic powder (or fresh garlic cloves)
+* 1 1/2 cups Reduced Fat Sharp Shredded Cheddar Cheese
+* 1/3 cup Parmesan Cheese (finely grated)
+* 3 1/2 cups Small Pasta Shells
+* 2 1/2 tbsp Unsalted Butter
+* 1 tsp, Black Pepper
+* 3 cups 1% Milk
+* 1/4 cup Whole Wheat Flour
+* *(option to add carmelized onion)*
 
 > **Pro Tip:** Reserve 1/4 cup pasta water, just in case you want to thin pasta sauce
 
