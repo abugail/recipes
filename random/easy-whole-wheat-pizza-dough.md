@@ -6,6 +6,7 @@
 
 
 ######Makes two 12" round pizzas
+######Author: Pinch of Yum
 
 ![Not Loading] (http://i.imgur.com/n1QtbT7m.png)
 
