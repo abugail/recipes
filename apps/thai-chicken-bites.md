@@ -6,7 +6,7 @@
 
 
 ######Serves 4-6
-######Author:SheSimmers
+######Inspired by: SheSimmers
 
 ![Not Loading] (http://i.imgur.com/NPwXcz9m.jpg)
 
