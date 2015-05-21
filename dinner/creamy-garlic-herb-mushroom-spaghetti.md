@@ -5,7 +5,7 @@
 | ? mins    | ? mins      | ? mins     |
 
 
-######Serves 4
+######Serves 4-5
 ######Inspired by: Pinch of Yum
 
 ![Not Loading] (http://i.imgur.com/pFZuddtm.png)
