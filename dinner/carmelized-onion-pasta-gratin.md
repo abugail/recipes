@@ -6,7 +6,7 @@
 
 
 ######Serves 8
-######Author: All Things Mac & Cheese
+######Inspired by: All Things Mac & Cheese
 
 ![Not Loading] (http://i.imgur.com/cTeUDgDm.jpg)
 
