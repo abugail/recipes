@@ -20,7 +20,7 @@
 
 > **Pro Tip:** Roll the dough out a bit thinner for a crunchier pizza.
 
->             See [Healthy Chicken Alfredo Pizza Recipe](g)
+> See [Healthy Chicken Alfredo Pizza Recipe](g)
 
 ### Cooking Instructions
 
