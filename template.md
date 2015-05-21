@@ -20,7 +20,11 @@
 
 1. Food
 2. Good
-3. 
+3.
+
+* ¼ 1/4
+* ½ 1/2
+* ⅓ 1/3
 
 ![Not Loading](link to picture)
 
