@@ -3,6 +3,9 @@
 | ---------- |:------------:| -----------:|
 |  *10 mins* | *10 mins*| *20 mins*   |
 
+######Serves 4
+######Author: SheSimmers
+
 ![not loading] (http://i.imgur.com/k8qjFL5t.jpg)
 
 #### Ingredients
