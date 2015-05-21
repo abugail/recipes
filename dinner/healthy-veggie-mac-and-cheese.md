@@ -2,7 +2,7 @@
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
-| ? mins    | ? mins      | ? mins     |
+| 10 mins    | 35 mins      | 45 mins    |
 
 
 ######Serves 4-5
