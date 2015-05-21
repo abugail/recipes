@@ -15,9 +15,9 @@
 * 1 small spaghetti squash (about 3-4 pounds)
 * 2 tbs unsalted butter
 * 2 cloves garlic, finely minced
-* 1/4 cup finely minced parsley (or basil)
-* 1/2 teaspoon salt (or to taste)
-* 1/4 cup shredded parmesan cheese
+* ¼ cup finely minced parsley (or basil)
+* ½ teaspoon salt (or to taste)
+* ¼ cup shredded parmesan cheese
 
 
 > **Pro Tip:** Baking time really depends on how big your squash is - try to get the smallest one. It’s ready if you can pierce the squash with a paring knife with little resistance.
