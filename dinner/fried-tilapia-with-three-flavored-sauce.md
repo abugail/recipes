@@ -5,7 +5,7 @@
 | 20 mins    | 10 mins      | 30 mins     |
 
 ######Serves 4
-######Author: SheSimmers
+######Inspired by: SheSimmers
 
 ![Not Loading](http://i.imgur.com/ok0IZMpm.jpg)
 
