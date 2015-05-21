@@ -5,7 +5,7 @@
 | ? mins    | 20 mins      | ? mins     |
 
 
-######Serves 16 slices
+######Serves 16 slices (2 12" pizzas)
 
 ![Not Loading] (http://i.imgur.com/27syucbm.png) 
 
