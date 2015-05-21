@@ -34,7 +34,7 @@
 3. Stir constantly for 1 minute.
 4. While whisking, slowly add in **milk**, then **onion powder, garlic powder** and **pepper** to taste.
 5. Increase heat to medium-high, stirring constantly until sauce boils and thickens.
-6. Add in cheddar and parmesan cheese and stir until melted.
+6. Add in **cheddar** and **parmesan** cheese and stir until melted.
 7. Add drained pasta and broccoli and chicken and toss to evenly coat.
 8. As it sits it will thicken, you can thin it with a few tbsp pasta water if desired.
 
