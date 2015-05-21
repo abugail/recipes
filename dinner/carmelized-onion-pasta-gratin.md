@@ -6,20 +6,21 @@
 
 
 ######Serves 8
+######Author: All Things Mac & Cheese
 
 ![Not Loading] (http://i.imgur.com/cTeUDgDm.jpg)
 
 ### Ingredients
 
 * 3 pounds yellow onion, peeled
-* 1/4 cup olive oil, divided
-* 3/4 pound rigatoni pasta
+* ¼ cup olive oil, divided
+* ¾ pound rigatoni pasta
 * 3 tablespoons butter
-* 1/4 cup flour
+* ¼ cup flour
 * 1 cup whole milk
 * 1 cup beef broth
-* 1/2 teaspoon black pepper
-* 2 1/2 cups (10 ounces) Swiss cheese, shredded and divided
+* ½ teaspoon black pepper
+* 2½ cups (10 ounces) Swiss cheese, shredded and divided
 * Italian breadcrumbs
 * 2 tablespoons fresh thyme leaves
 
@@ -27,7 +28,7 @@
 
 ### Cooking Instructions
 
-1. Cut onions lengthwise into 1/4-inch slices. 
+1. Cut onions lengthwise into ¼inch slices. 
 2. Place **onions** and **2 tablespoons olive oil** in wide, thick-bottomed sauté pan.
 3. Cook over medium heat, stirring occasionally, 45 minutes or until onions cook down to about 2 cups. 
 4. *Remove from heat and set aside.*
