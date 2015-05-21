@@ -6,13 +6,14 @@
 
 
 ######Serves 16 slices (2 12" pizzas)
+######Author: Pinch of Yum
 
 ![Not Loading] (http://i.imgur.com/27syucbm.png) 
 
 ### Ingredients
 
 * 1 batch [whole wheat pizza dough](https://github.com/abugail/recipes/blob/master/random/easy-whole-wheat-pizza-dough.md)
-* 4 cups [creamy cauliflower sauce] (dff)
+* 4 cups [creamy cauliflower sauce] (https://github.com/abugail/recipes/blob/master/sauces/creamy-cauliflower-sauce.md)
 * 2 large chicken breasts (shredded)
 * 1 cup shredded Mozzarella
 * diced tomatoes
