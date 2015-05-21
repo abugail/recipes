@@ -1,8 +1,8 @@
-## Baked Spaghetti Squash with Garlic and Butter :star::star::star::star::star:
+## Baked Spaghetti Squash with Garlic and Butter
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
-| ? mins    | ? mins      | ? mins     |
+| 5 mins    | 60 mins      | 65 mins     |
 
 
 ######Serves 5-6
