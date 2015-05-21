@@ -6,7 +6,7 @@
 
 
 ######Serves 5
-######Author: Cooking Classy
+######Inspired by: Cooking Classy
 
 ![Not Loading](http://i.imgur.com/E4SMemsm.jpg)
 
