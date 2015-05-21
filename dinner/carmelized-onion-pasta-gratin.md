@@ -28,7 +28,7 @@
 
 ### Cooking Instructions
 
-1. Cut onions lengthwise into ¼inch slices. 
+1. Cut onions lengthwise into ¼ inch slices. 
 2. Place **onions** and **2 tablespoons olive oil** in wide, thick-bottomed sauté pan.
 3. Cook over medium heat, stirring occasionally, 45 minutes or until onions cook down to about 2 cups. 
 4. *Remove from heat and set aside.*
