@@ -8,7 +8,7 @@
 ######Serves 16 slices (two 12" pizzas)
 ######Inspired by: Pinch of Yum
 
-![Not Loading] (http://i.imgur.com/27syucbm.png) 
+![Not Loading] (http://i.imgur.com/27syucbl.png)
 
 ### Ingredients
 
