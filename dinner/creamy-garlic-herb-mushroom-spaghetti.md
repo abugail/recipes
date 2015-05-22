@@ -8,7 +8,7 @@
 ######Serves 4-5
 ######Inspired by: Pinch of Yum
 
-![Not Loading] (http://i.imgur.com/pFZuddtm.png)
+![Not Loading] (http://i.imgur.com/pFZuddtl.png)
 
 ### Ingredients
 
