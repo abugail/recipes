@@ -8,7 +8,7 @@
 ######Serves 4-5
 ######Author: Pinch of Yum
 
-![Not Loading] (http://i.imgur.com/biByCFTm.png)
+![Not Loading] (http://i.imgur.com/biByCFTl.png)
 
 ### Ingredients
 
