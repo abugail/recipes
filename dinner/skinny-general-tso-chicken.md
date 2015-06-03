@@ -53,14 +53,15 @@
 7. Dip the chicken pieces in the egg wash and then place them in the flour mixture.
 8. Shake until evenly coated.
 9. Place chicken on baking sheet and lightly spray tops of chicken with cooking spray.
-10. Bake at 375 degrees for 10 minutes then move the baking tray to the top middle oven rack and broil until crispy, watching closely so the chicken doesn't burn (about 2-3 minutes).
-11. Flip chicken pieces over and broil another 2-3 minutes, or until golden and crispy.
+10. Bake at 375 degrees for 10 minutes
+11. Move the baking tray to the top middle oven rack and broil until crispy, watching closely so the chicken doesn't burn (about 2-3 minutes).
+12. Flip chicken pieces over and broil another 2-3 minutes, or until golden and crispy.
 
-12. While the chicken is baking, whisk 2 tbs **cornstarch** to the reserved sauce. Set aside.
-13. Add **water** and **sugar** to large skillet and boil over medium heat, for 1 minute - don't overcook or it will harden!
-14. At this point, **add reserved sauce** all at once to the hot caramel.
-15. Simmer the sauce until it thickens, about 1-2 minutes. 
-16. Add snow peas and simmer 30 more seconds. *If adding different vegetables, simmer for 1-2 minutes, or until vegetables are crisp tender and then add snow peas.*
+13. While the chicken is baking, whisk 2 tbs **cornstarch** to the reserved sauce. Set aside.
+14. Add **water** and **sugar** to large skillet and boil over medium heat, for 1 minute - don't overcook or it will harden!
+15. At this point, **add reserved sauce** all at once to the hot caramel.
+16. Simmer the sauce until it thickens, about 1-2 minutes. 
+17. Add snow peas and simmer 30 more seconds. *If adding different vegetables, simmer for 1-2 minutes, or until vegetables are crisp tender and then add snow peas.*
 
 ![Not Loading](http://i.imgur.com/64xKhoKl.png)
 
