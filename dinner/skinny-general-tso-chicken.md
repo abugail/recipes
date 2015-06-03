@@ -12,7 +12,7 @@
 
 ###Ingredients
 
-> **Marinade Sauce Ingredients**
+**Marinade Sauce Ingredients**
 * 2-3 lbs boneless, skinless chicken breasts (cut into 1” pieces)
 * ½ cup soy sauce
 * ½ cup Chinese rice wine (may substitute dry sherry)
@@ -25,11 +25,11 @@
 * Dash of pepper
 * 2 tsp cornstarch (reserve from marinade)
 
-> **Caramel Sauce Ingredients**
+**Caramel Sauce Ingredients**
 * 1 cup sugar
 * ¼ cup water
 
-> **Flour Breading Ingredients**
+**Flour Breading Ingredients**
 * 1 cup flour
 * ½ tsp black pepper
 * ¼ tsp cayenne pepper
@@ -39,7 +39,7 @@
 * 1 tsp garlic powder
 * 2 eggs + 2 tbs water whisked together
 
-> **Snow peas, or other vegetables of choice**
+**Snow peas, or other vegetables of choice**
 
 
 ### Cooking Instructions
