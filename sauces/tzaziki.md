@@ -12,13 +12,13 @@
 
 ### Ingredients
 
-*½ English cucumber, peeled
-*16 oz (2 cups) Cold plain Greek yogurt (either full fat or fat free will work)
-*4 cloves garlic, pressed
-*⅓ cup chopped dill, fresh or frozen
-*1½ Tbsp freshly squeezed lemon juice (Juice of ½ lemon; please squeeze a real lemon)
-*½ tsp salt, or to taste
-⅛ tsp black pepper
+* ½ English cucumber, peeled
+* 16 oz (2 cups) Cold plain Greek yogurt (either full fat or fat free will work)
+* 4 cloves garlic, pressed
+* ⅓ cup chopped dill, fresh or frozen
+* 1½ Tbsp freshly squeezed lemon juice (Juice of ½ lemon; please squeeze a real lemon)
+* ½ tsp salt, or to taste
+* ⅛ tsp black pepper
 
 > **Pro Tip:** You can squeezed the cucumber really tight by the fistful in order to get rid of excess juices
 
