@@ -1,4 +1,4 @@
-##Tzaziki Sauce
+##Tzaziki Sauce :star::star::star::star::star:
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
