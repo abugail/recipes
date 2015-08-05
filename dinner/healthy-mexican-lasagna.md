@@ -21,7 +21,7 @@
 * 2 cups Mexican cheese shredded
 * 18-20 corn tortillas
 * 1 can refried beans
-* 2 cups of [Ranchero sauce](https://github.com/abugail/recipes/blob/master/sauces/thai-three-flavoured-sauce.md)
+* 2 cups of [Ranchero sauce](https://github.com/abugail/recipes/blob/master/sauces/ranchero-sauce.md)
 * cilantro or sour cream for topping
 * 1lb ground turkey
 
