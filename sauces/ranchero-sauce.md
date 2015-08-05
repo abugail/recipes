@@ -23,7 +23,7 @@
 * ½ tsp cumin
 * ½ tsp black pepper
 
-> **Pro Tip:** Can use in [Mexican Lasagna](.............) or [Beef Enchiladas](..........)
+> **Pro Tip:** Can use in [Mexican Lasagna](https://github.com/abugail/recipes/blob/master/dinner/healthy-mexican-lasagna.md) or [Beef Enchiladas](..........)
 
 ### Cooking Instructions
 
