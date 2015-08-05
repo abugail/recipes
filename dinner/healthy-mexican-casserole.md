@@ -1,11 +1,11 @@
-## Healthy Mexican Casserole
+## Healthy Mexican Casserole :star::star::star::star:
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 20 mins    | 20 mins      | 40 mins     |
 
 
-######Serves 6
+######Serves 8
 ######Inspired By: Pinch of Yum
 
 ![Not Loading] (http://i.imgur.com/yqOKGlnl.png)
@@ -43,21 +43,19 @@
 12. Cover the pan with foil and bake for 20 minutes, until the sauce is bubbling and the cheese is melted.
 13. Serve with fresh cilantro, or sour cream
 
-![Not Loading] (http://i.imgur.com/mk6Cnjmm.png)
 
 ---
 
 ###### Tags
 - [x] Diet
 - [x] Mexican
-- [x] Want to Try
 - [x] Dinner
 - [x] Under 600 cal
 - [x] Under 400 cal
 - [x] Spicy
 - [x] Ground Turkey
 - [x] Ground Beef
-- [x] Unrated
+- [x] 4 stars
 
 ---
 
