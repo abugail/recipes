@@ -45,6 +45,7 @@
 - [x] Easy
 - [x] Sauce
 - [x] Needs Nutritional Info
+- [x] 5 stars
 
 
 ---
