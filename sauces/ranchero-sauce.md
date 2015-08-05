@@ -16,7 +16,7 @@
 * 2 jalapenos, diced (optional)
 * 1 medium onion, diced
 * ¼ cup olive oil
-* 2 Tablespoons flour
+* 2 tbs flour
 * 3 cups chicken broth
 * 1 8-ounce can tomato sauce
 * 2 tsp crushed garlic
