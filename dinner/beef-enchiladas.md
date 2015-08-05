@@ -15,7 +15,7 @@
 * 12 corn tortillas
 * 4 steak cutlets, seasoned with chili powder and black pepper, then baked in foil until done (about 1 hour)
 * 3 cups shredded cheese (half Monterey Jack and half cheddar); divided use
-* [Ranchero sauce](
+* [Ranchero sauce](https://github.com/abugail/recipes/blob/master/sauces/ranchero-sauce.md)
 
 > **Pro Tip:** this is a special instruction
 
