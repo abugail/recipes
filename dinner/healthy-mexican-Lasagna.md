@@ -1,4 +1,4 @@
-## Healthy Mexican Casserole :star::star::star::star:
+## Healthy Mexican Lasagna :star::star::star::star:
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
@@ -21,7 +21,7 @@
 * 2 cups Mexican cheese shredded
 * 18-20 corn tortillas
 * 1 can refried beans
-* 2 cups red enchilada sauce
+* 2 cups of [Ranchero sauce](https://github.com/abugail/recipes/blob/master/sauces/thai-three-flavoured-sauce.md)
 * cilantro or sour cream for topping
 * 1lb ground turkey
 
@@ -37,7 +37,7 @@
 6. Grease a deep lasagna pan and preheat the oven to 400°F. 
 7. Cut the **tortillas** into 1"x1" squares. 
 8. Put the **refried beans** in a bowl and mix with a little bit of water to make them easier to spread.
-9. Spread a *little bit* of **enchilada sauce** on the bottom of the pan.
+9. Spread a *little bit* of **ranchero sauce** on the bottom of the pan.
 10. Layer in order: half of the tortilla strips, ALL the beans, half of the veggies, half the turkey, half of the sauce, half of the cheese.
 11. Cover with the other half of the tortilla strips, veggies, turkey, sauce, and cheese.
 12. Cover the pan with foil and bake for 20 minutes, until the sauce is bubbling and the cheese is melted.
