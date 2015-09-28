@@ -1,4 +1,4 @@
-## Tortillas :star::star::star::star:
+## Healthy Tortillas :star::star::star::star:
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
