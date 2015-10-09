@@ -6,7 +6,7 @@
 
 
 ######Makes 8
-######Inspired by: Sandra!
+######Inspired by: Eat2Live GTA
 
 ![insert picture here](link to picture)
 
