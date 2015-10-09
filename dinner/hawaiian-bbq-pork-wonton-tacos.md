@@ -20,7 +20,7 @@
 * ½ red onion, thinly sliced
 * ¼ cup cilantro, roughly chopped
 
-# Sauce
+#### Sauce
 * ¼ cup ketchup
 * ¼ cup soy sauce
 * ⅓ cup pineapple juice (from can of crushed pineapple)
