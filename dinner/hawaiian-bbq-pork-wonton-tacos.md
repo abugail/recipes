@@ -30,15 +30,15 @@
 
 ### Cooking Instructions
 
-1. Place *pork roast* in the slow cooker
-2. Add *liquid smoke*, and sprinkle pork with *salt*
+1. Place **pork roast** in the slow cooker
+2. Add **liquid smoke**, and sprinkle pork with *salt*
 3. Cook on low 8 hours or on high 4 hours
 4. 30 minutes before serving, remove the pork from the slow cooker and shred with two forks
 5. Preheat oven to 400
 6. Spray a baking sheet generously with cooking spray
-7. Lay *wonton wrappers* out on a flat surface
+7. Lay **wonton wrappers** out on a flat surface
 8. Put 3-4 tsp water in a small bowl, spoon about 2 tbs of shredded pork into the center of each wonton
-9. Top with 1-2 tbs *broccoli slaw* and some *red onion* slices
+9. Top with 1-2 tbs **broccoli slaw** and some **red onion** slices
 10. Wet your finger tips with the water, then pinch two opposite corners of each wonton together so they stick together
 11. Place wonton tacos on prepared baking sheet in a single layer, not touching
 12. Spray tacos generously with cooking spray
@@ -46,7 +46,7 @@
 14. While the tacos are baking, prepare the sauce
 15. Combine all sauce ingredients in a medium sauce pan and whisk over medium-high and bring to a boil
 16. Reduce to simmer and allow to thicken until tacos are done baking
-17. Top with cilantro and drizzle sauce onto tacos
+17. Top with **cilantro** and drizzle sauce onto tacos
 
 ---
 
