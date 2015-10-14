@@ -50,7 +50,8 @@
 8. Spiralize the **sweet potato** using the 3 mm blade and then add it into the pan.
 9. Cook the noodles, stirring often, until they just begin to wilt, about 10 minutes. Season with salt.
 10. While you wait, toss together the diced **mango**, **red onion**, **Thai chili**, **apple cider vinegar** and **cilantro** in a medium bowl. Season with a pinch of salt.
-11. Divide the noodles between two plates and top with the curry. Garnish with the mango salsa and extra cilantro and DEVOUR.
+11. Divide the noodles between two plates and top with the curry. 
+12. Garnish with the mango salsa and extra cilantro.
 
 ![Not Loading](http://i.imgur.com/W5zqXqNm.png)
 
