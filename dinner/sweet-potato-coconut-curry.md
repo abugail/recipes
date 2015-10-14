@@ -6,7 +6,7 @@
 
 
 ######Serves 2
-######Inspired by:
+######Inspired by: Food Faith Fitness
 
 ![Not Loading](http://i.imgur.com/MZYx4Fql.png)
 
