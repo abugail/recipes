@@ -12,18 +12,21 @@
 ### Ingredients
 
 * ½ cup ready-made brown rice
-* 1 chicken breast, sliced
-* 4 shitake mushrooms
-* ½ red pepper, sliced
-* ½ green pepper, sliced
-* ¼ small red onion, sliced
+* 1 egg, scrambled
+* 4 bella mushrooms, sliced
+* 1 cup broccoli
+* ½ carrot, chopped
+* ¼ small red onion
+* 1 tsp sesame oil
 * 1 tbs olive oil
+
+> **Pro Tip:** Add chicken for main dish
 
 ### Cooking Instructions
 
-1. Cook **chicken** thoroughly in frying pan with some seasoning
+1. Cook **scrambled egg** in **olive oil**
 2. Cook **rice** simultaneously
-3. add all ingredients into stir-fry pan and mix
+3. Add all remaining ingredients into stir-fry pan with egg and rice and mix
 ---
 
 ###### Tags
