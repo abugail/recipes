@@ -7,17 +7,18 @@
 
 ######Serves 1
 
-![Not Loading](no picture yet)
+![no picture yet](put link here)
 
 ### Ingredients
 
 * 2 cups baby spinach
 * 1 handful alfalfa sprouts
-* 1/2 orange bell pepper, diced
-* 1/2 carrot, grated
+* ½ orange bell pepper, diced
+* ½ carrot, grated
 * 2 tbs hummus
 * 1 tbs olive oil
 
+> **Pro Tip:** Mix hummus and olive oil seperately before placing in salad
 
 ---
 
