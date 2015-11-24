@@ -21,8 +21,8 @@
 
 ### Cooking Instructions
 
-1. Cook *chicken* thoroughly in frying pan with some seasoning
-2. Cook *rice* simultaneously
+1. Cook **chicken** thoroughly in frying pan with some seasoning
+2. Cook **rice** simultaneously
 3. add all ingredients into stir-fry pan and mix
 ---
 
