@@ -19,6 +19,11 @@
 * ¼ small red onion, sliced
 * 1 tbs olive oil
 
+### Cooking Instructions
+
+1. Cook *chicken* thoroughly in frying pan with some seasoning
+2. Cook *rice* simultaneously
+3. add all ingredients into stir-fry pan and mix
 ---
 
 ###### Tags
