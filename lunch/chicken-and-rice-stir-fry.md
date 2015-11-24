@@ -28,14 +28,13 @@
 
 ###### Tags
 - [x] Diet
-- [x] Quick
 - [x] Lunch
 - [x] Light
 - [x] Easy
 - [x] Want to Try
 - [x] Under 400 cal
 - [x] Unrated
-- [x] Salad
+- [x] Rice
 - [x] Needs Picture
 - [x] Needs Nutritional Info
 
