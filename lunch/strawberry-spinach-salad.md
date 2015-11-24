@@ -14,10 +14,10 @@
 * 1 cup spinach
 * 1 cup strawberries
 * 1 thick slice fresh mozzarella cheese
-* 2 tablespoons pine nuts
+* 2 tbs pine nuts
 * 1 cup broccoli
-* 1 tablespoon olive oil
-* 1 teaspoon balsamic vinegar
+* 1 tbs olive oil
+* 1 tsp balsamic vinegar
 * 1 squeeze lemon juice
 
 ![Not Loading](http://i.imgur.com/91LtPBEl.png)
