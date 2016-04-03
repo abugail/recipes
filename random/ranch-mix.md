@@ -17,7 +17,7 @@
 * 4 tsp salt
 * 1 tsp garlic powder
 
-> **Pro Tip:** Use for ranch dressing and ranch dip
+> **Pro Tip:** Use for [ranch dip](https://github.com/abugail/recipes/edit/master/sauces/ranch-dip.md)
 
 ### Instructions
 
