@@ -6,7 +6,7 @@
 
 
 ######Serves 4
-######Inspired by:Self-Reliance
+######Inspired by: Self-Reliance
 
 ![Not Loading](http://i.imgur.com/ZG7igui.png)
 
@@ -14,7 +14,7 @@
 
 * ½ cup chili powder
 * ¼ cup onion powder
-* ⅛ cup ground cumin
+* 1 tbs ground cumin
 * 1 tbs garlic powder
 * 1 tbs paprika
 * 1 tbs sea salt
