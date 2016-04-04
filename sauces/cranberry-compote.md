@@ -20,7 +20,6 @@
 * 2 tbs cornstarch
 * ½ cup fresh orange juice
 
-> **Pro Tip:** this is a special instruction
 
 ### Cooking Instructions
 
