@@ -6,7 +6,7 @@
 
 
 ######Serves 7
-######Inspired by:pressurecookingtoday.PpO
+######Inspired by: Pressure Cooking Today
 
 ![Not Loading](http://i.imgur.com/YPqUKJtl.png)
 ### Ingredients
