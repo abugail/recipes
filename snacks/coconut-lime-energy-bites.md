@@ -5,35 +5,37 @@
 | 10 mins    | 0 mins      | 10 mins     |
 
 
-######Serves ?
-######Inspired by: Eat2Live GTA
+######Serves 12 balls
+######Inspired by: Paleo Grubs
 
 ### Ingredients
 
-* 3/4 cup almonds
-1/4 cup cashews
-1 1/2 cups pitted Medjool dates
-Zest of 3 limes
-Juice of 3 limes
-Pinch of salt
-1/3 cup unsweetened coconut flakes
-* 1½ tbs honey
-* pinch of cayenne
+* ¾ cup almonds
+* ¼ cup cashews
+* 1½ cups pitted Medjool dates
+* Zest of 3 limes
+* Juice of 3 limes
+* Pinch of salt
+* ⅓ cup unsweetened coconut flakes
 
-> **Pro Tip:** this is a special instruction
+### Prep Instructions
 
-### Cooking Instructions
-
-1. bring all to a boil
+1. Place the almonds and cashews into a blender or food processor and pulse to finely chop
+2. Add the dates, salt, lime zest and juice and blend until the mixture starts to clump together
+3. Transfer to a bowl and scrape down the sides with a spatula
+4. Use your hands to form small round balls, rolling in your palm
+5. Roll each ball in the coconut flakes to coat
+6. Store in an airtight container in the refrigerator for up to a week
 
 ---
 
 ###### Tags
 - [x] Sandra
-- [x] Sauce
+- [x] Snack
+- [x] Healthy
 
 
 ---
 
-[Source](www.eat2livegta.com)
+[Source](http://paleogrubs.com/lime-energy-bite-recipe)
 
