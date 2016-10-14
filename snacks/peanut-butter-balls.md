@@ -15,20 +15,18 @@
 * 1 tsp vanilla extract
 * 1 cup old-fashioned oats (raw)
 * ⅔ cup toasted, sweetened shredded coconut
-1/2 cup ground golden flaxseed meal (I used Bob's Red Mill)
-6 Tbsp chocolate chips (next time I'll use minis)
+* ½ cup ground golden flaxseed meal 
+* 6 Tbs dark chocolate chips
 
 > **Pro Tip:** this is a special instruction
 
 ### Cooking Instructions
 
-1. bring all to a boil
-
-* ¼ 1/4
-* ½ 1/2
-* ⅓ 1/3
-* ¾ 3/4
-* °
+1. In a mixing bowl, stir together peanut butter, honey and vanilla extract
+2. Add remaining ingredients and stir until evenly coated
+3. Transfer mixture to refrigerator or freezer and chill until set
+4. Remove from refrigerator and shape into 1-inch balls
+5. Store in refrigerator in an airtight container for up to one week
 ---
 
 ###### Tags
@@ -39,5 +37,5 @@
 
 ---
 
-[Source](http://paleogrubs.com/lime-energy-bite-recipe)
+[Source](http://www.cookingclassy.com/bake-energy-bites/)
 
