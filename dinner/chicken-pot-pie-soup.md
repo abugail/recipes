@@ -1,4 +1,4 @@
-## Title :star::star::star::star::star:
+## Chicken Pot Pie Soup :star::star::star::star::star:
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
