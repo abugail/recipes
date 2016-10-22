@@ -1,4 +1,4 @@
-## Kao Soi
+## Khao Soi
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
