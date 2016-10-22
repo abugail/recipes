@@ -23,9 +23,9 @@
 * 1 tsp sugar
 * 1 tsp salt
 * 2 tbs freshly squeezed lime juice
-* 1 lb chinese noodles or ½lb dried (worst case ½lb angel hair pasta)
+* 1 lb rice noodles or ½lb dried (worst case ½lb angel hair pasta)
 * ⅓ cup coarsly chopped shallot
-* ⅓ cup cparsley chopped fresh cilantro
+* ⅓ cup coarsley chopped fresh cilantro
 * ⅓ cup thinkly sliced green onion
 
 > **Pro Tip:** this is a special instruction
