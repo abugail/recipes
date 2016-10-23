@@ -11,7 +11,7 @@
 ### Ingredients
 
 * ½ cup creamy peanut butter
-* ⅓ cup agave
+* ¼ cup agave
 * 1 tbs chia
 * 1 cup quick oats (raw)
 * 1 tbs melted coconut oil
