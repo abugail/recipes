@@ -2,13 +2,13 @@
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
-| ? mins    | ? mins      | ? mins     |
+| 10 mins    | 15 mins      | 25 mins     |
 
 
 ######Serves 5
 ######Inspired by:BuzzFeed Tasty
 
-![Not Loading](http://i.imgur.com/eHpNaWUh.png)
+![Not Loading](http://i.imgur.com/eHpNaWUl.png)
 
 ### Ingredients
 
