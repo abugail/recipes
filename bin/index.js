@@ -3,8 +3,7 @@ const jekyll = require("jekyll-meta-from-markdown");
 const glob = require("glob");
 const path = require("path");
 
-global.__base = "../..";
-
+global.__base = "./";
 glob(`${__base}/!(node_modules|jekyll)**/*.md`, (er, files) => {
   // console.log(files);
   for (let item in files) {
@@ -17,7 +16,6 @@ glob(`${__base}/!(node_modules|jekyll)**/*.md`, (er, files) => {
       date: file_date,
       author: "Abigail Morris"
     });
-
     fs.writeFileSync(`${__base}/jekyll/_posts/${file_date.getFullYear()}-${file_date.getMonth() + 1}-${file_date.getDate()}-${file_name}`, jekyll_file_data);
   }
 });
