@@ -2,7 +2,7 @@
 layout: post
 title: "Skinny General Tso's Chicken"
 author: Abigail Morris
-date: 2017-01-07T03:23:38.587Z
+date: 2017-01-07T03:35:02.187Z
 ---
 
 | Prep Time  | Cook Time    | Total Time  |
