@@ -2,7 +2,7 @@
 layout: post
 title: "Mexican Street Corn Salad"
 author: Abigail Morris
-date: 2017-01-07T02:36:06.020Z
+date: 2017-01-07T02:45:49.470Z
 ---
 
 | Prep Time  | Cook Time    | Total Time  |
