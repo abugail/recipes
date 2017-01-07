@@ -3,7 +3,7 @@ const jekyll = require("jekyll-meta-from-markdown");
 const glob = require("glob");
 const path = require("path");
 
-global.__base = "./";
+global.__base = "";
 glob(`${__base}/!(node_modules|jekyll)**/*.md`, (er, files) => {
   // console.log(files);
   for (let item in files) {
