@@ -1,5 +1,8 @@
 # Dependencies
 markdown:         redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
 highlighter:      pygments
 
 # Permalinks
@@ -8,7 +11,7 @@ permalink:        pretty
 # Setup
 title:            Recipes
 tagline:          'Wholesome Eating!'
-description:      'Some of the tastiest wholesome healthy recipes around.'
+description:      'Some of the tastiest, wholesome, and healthy recipes around.'
 url:              abugail.github.io/recipes
 baseurl:          /recipes
 # Travis will install Bundler dependencies in ./vendor, so we need to exclude it
@@ -34,6 +37,7 @@ github:
 # Algolia
 gems:
   - algoliasearch-jekyll
+  - jemoji
 
 algolia:
   application_id: '8TZNCU1121'
