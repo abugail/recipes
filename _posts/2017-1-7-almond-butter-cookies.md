@@ -2,7 +2,7 @@
 layout: post
 title: "Almond Butter Cookies :star::star::star::star::star:"
 author: Abigail Morris
-date: 2017-01-07T02:10:00.442Z
+date: 2017-01-07T02:12:00.103Z
 ---
 
 | Prep Time  | Cook Time    | Total Time  |
