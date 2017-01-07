@@ -2,7 +2,7 @@
 layout: post
 title: "Cinnamon Apple Quinoa :star::star::star::star:"
 author: Abigail Morris
-date: 2017-01-07T03:05:46.662Z
+date: 2017-01-07T03:23:38.587Z
 ---
 
 | Prep Time  | Cook Time    | Total Time  |
