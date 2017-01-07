@@ -2,7 +2,7 @@
 layout: post
 title: "Sprout n' Spinach Salad"
 author: Abigail Morris
-date: 2017-01-07T02:31:10.553Z
+date: 2017-01-07T02:36:06.020Z
 ---
 
 | Prep Time  | Cook Time    | Total Time  |
