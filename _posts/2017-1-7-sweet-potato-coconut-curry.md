@@ -2,7 +2,7 @@
 layout: post
 title: "Sweet Potato Coconut Curry"
 author: Abigail Morris
-date: 2017-01-07T02:12:00.103Z
+date: 2017-01-07T02:13:51.360Z
 ---
 
 | Prep Time  | Cook Time    | Total Time  |
