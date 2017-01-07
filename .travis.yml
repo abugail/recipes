@@ -3,7 +3,7 @@ node_js:
   - "6"
 branches:
   only:
-    - jekyll
+    - master
 before_install:
   - git config --global user.email "hartwick.abigail@gmail.com"
   - git config --global user.name "Abi Morris"
