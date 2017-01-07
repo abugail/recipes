@@ -2,7 +2,7 @@
 layout: post
 title: "Chicken and Rice Stir-Fry"
 author: Abigail Morris
-date: 2017-01-07T03:02:24.663Z
+date: 2017-01-07T03:05:46.670Z
 ---
 
 | Prep Time  | Cook Time    | Total Time  |

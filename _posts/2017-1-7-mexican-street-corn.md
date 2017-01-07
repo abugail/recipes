@@ -2,7 +2,7 @@
 layout: post
 title: "Mexican Street Corn :star::star::star::star::star:"
 author: Abigail Morris
-date: 2017-01-07T03:02:24.655Z
+date: 2017-01-07T03:05:46.662Z
 ---
 
 | Prep Time  | Cook Time    | Total Time  |
