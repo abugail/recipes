@@ -1,91 +1,45 @@
-#
-# This file contains configuration flags to customize your site
-#
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-# Name of your site (displayed in the header)
-name: Recipes
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-# Short bio or description (displayed in the header)
-description: Recipes by Abigail
+# Setup
+title:            Recipes
+tagline:          'Wholesome Eating!'
+description:      'Some of the tastiest wholesome healthy recipes around.'
+url:              abugail.github.io/recipes
+baseurl:          /recipes
+# Travis will install Bundler dependencies in ./vendor, so we need to exclude it
+# otherwise Jekyll will try to build it (and fail)
+exclude:          [vendor]
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+author:
+  name:           'Abigail Morris'
+  url:            http://abugail.github.com/recipes
+# Thanks to @mdo for the original theme
+# author:
+#   name:           'Mark Otto'
+#   url:            https://twitter.com/mdo
 
-#
-# Flags below are optional
-#
+paginate:         5
 
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github:
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter:
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+# Custom vars
+version:          2.1.0
 
+github:
+    repo:         https://github.com/abugail/recipes
 
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
-
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url:
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
-
-#
-# !! You don't need to change any of the configuration flags below !!
-#
-
-permalink: /:title/
-
-# The release of Jekyll Now that you're using
-version: v1.2.0
-
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-
-# Jekyll 3 now only supports Kramdown for Markdown
-# kramdown:
-#   # Use GitHub flavored markdown, including triple backtick fenced code blocks
-#   input: GFM
-#   # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-#   syntax_highlighter: rouge
-#   syntax_highlighter_opts:
-#     # Use existing pygments syntax highlighting css
-#     css_class: 'highlight'
-
-# Set the Sass partials directory, as we're using @imports
-sass:
-  style: :expanded # You might prefer to minify using :compressed
-
-# Use the following plug-ins
+# Algolia
 gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed
-  - jemoji
+  - algoliasearch-jekyll
 
-# Exclude these files from your production _site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
+algolia:
+  application_id: 'latency'
+  index_name: 'jekyll'
+  read_only_api_key: '6be0576ff61c053d5f9a3225e2a90f76'
+  excluded_files:
+    - 404.html
+    - index.html
