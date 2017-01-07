@@ -5,7 +5,7 @@ const path = require("path");
 const del = require("del");
 
 global.__base = "";
-del([`${__base}/jekyll/_posts/**/*.md`])
+del(`${__base}/jekyll/_posts/*.md`)
 .then(paths => {
   glob(`${__base}/!(node_modules|jekyll)**/*.md`, (er, files) => {
     // console.log(files);
