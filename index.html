@@ -1,37 +1,105 @@
----
-layout: default
-title: Home
----
-
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+    <title>Recipes</title>
+    <link type="text/css" rel="stylesheet" href="assets/css/github-markdown.css">
+    <link type="text/css" rel="stylesheet" href="assets/css/pilcrow.css">
+    <link type="text/css" rel="stylesheet" href="assets/css/hljs-github.min.css"/>
+  </head>
+  <body>
+    <article class="markdown-body"><h1 id="recipes"><a class="header-link" href="#recipes"></a>Recipes</h1>
+<blockquote>
+<p>All the Things I like to cook </p>
+</blockquote>
+<ul class="list">
+<li><a href="http://abugail.github.io/recipes/apps/mexican-street-corn.html">mexican street-corn</a></li>
+<li><a href="http://abugail.github.io/recipes/apps/thai-chicken-bites.html">thai chicken-bites</a></li>
+<li><a href="http://abugail.github.io/recipes/breakfast/cinnamon-apple-quinoa.html">cinnamon apple-quinoa</a></li>
+<li><a href="http://abugail.github.io/recipes/desserts/5-minute-healthy-peach-frozen-yogurt.html">5 minute-healthy-peach-frozen-yogurt</a></li>
+<li><a href="http://abugail.github.io/recipes/desserts/almond-butter-cookies.html">almond butter-cookies</a></li>
+<li><a href="http://abugail.github.io/recipes/desserts/apple-crisp.html">apple crisp</a></li>
+<li><a href="http://abugail.github.io/recipes/desserts/apple-fritters.html">apple fritters</a></li>
+<li><a href="http://abugail.github.io/recipes/desserts/mini-egg-cookies.html">mini egg-cookies</a></li>
+<li><a href="http://abugail.github.io/recipes/desserts/vintage-brownie-surprise-cake.html">vintage brownie-surprise-cake</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/bacon-wrapped-pork-roast-with-sage.html">bacon wrapped-pork-roast-with-sage</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/baked-parmesan-chicken-bites.html">baked parmesan-chicken-bites</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/baked-spaghetti-squash-with-garlic-and-butter.html">baked spaghetti-squash-with-garlic-and-butter</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/beef-and-broccoli.html">beef and-broccoli</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/beef-enchiladas.html">beef enchiladas</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/butternut-squash-alfredo.html">butternut squash-alfredo</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/carmelized-onion-pasta-gratin.html">carmelized onion-pasta-gratin</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/chicken-and-wild-rice-soup.html">chicken and-wild-rice-soup</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/chicken-pot-pie-soup.html">chicken pot-pie-soup</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/cream-of-mushroom-chicken-breasts.html">cream of-mushroom-chicken-breasts</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/creamy-broccoli-chicken-shells-and-cheese.html">creamy broccoli-chicken-shells-and-cheese</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/creamy-garlic-herb-mushroom-spaghetti.html">creamy garlic-herb-mushroom-spaghetti</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/curry-basil-chicken.html">curry basil-chicken</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/fried-tilapia-with-three-flavored-sauce.html">fried tilapia-with-three-flavored-sauce</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/hawaiian-bbq-pork-wonton-tacos.html">hawaiian bbq-pork-wonton-tacos</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/healthy-chicken-alfredo-pizza.html">healthy chicken-alfredo-pizza</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/healthy-mexican-lasagna.html">healthy mexican-lasagna</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/healthy-veggie-mac-and-cheese.html">healthy veggie-mac-and-cheese</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/khao-soi.html">khao soi</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/macaroni-and-cheese.html">macaroni and-cheese</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/pad-gra-prao.html">pad gra-prao</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/pad-thai-with-store-bought-sauce.html">pad thai-with-store-bought-sauce</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/pad-thai.html">pad thai</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/rosemary-lemon-roasted-chicken.html">rosemary lemon-roasted-chicken</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/Roti.html">Roti</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/skinny-garlic-parmesan-fettucini-alfredo.html">skinny garlic-parmesan-fettucini-alfredo</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/skinny-general-tso-chicken.html">skinny general-tso-chicken</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/sweet-potato-coconut-curry.html">sweet potato-coconut-curry</a></li>
+<li><a href="http://abugail.github.io/recipes/dinner/veggie-crockpot-lasagna.html">veggie crockpot-lasagna</a></li>
+<li><a href="http://abugail.github.io/recipes/lunch/chicken-and-rice-stir-fry.html">chicken and-rice-stir-fry</a></li>
+<li><a href="http://abugail.github.io/recipes/lunch/healthy-stir-fried-rice.html">healthy stir-fried-rice</a></li>
+<li><a href="http://abugail.github.io/recipes/lunch/mexican-street-corn-salad.html">mexican street-corn-salad</a></li>
+<li><a href="http://abugail.github.io/recipes/lunch/sprout-n&#39;-spinach-salad.html">sprout n&#39;-spinach-salad</a></li>
+<li><a href="http://abugail.github.io/recipes/lunch/strawberry-spinach-salad.html">strawberry spinach-salad</a></li>
+<li><a href="http://abugail.github.io/recipes/random/buttercream-icing.html">buttercream icing</a></li>
+<li><a href="http://abugail.github.io/recipes/random/crepes.html">crepes</a></li>
+<li><a href="http://abugail.github.io/recipes/random/easy-whole-wheat-pizza-dough.html">easy whole-wheat-pizza-dough</a></li>
+<li><a href="http://abugail.github.io/recipes/random/gravy-mix.html">gravy mix</a></li>
+<li><a href="http://abugail.github.io/recipes/random/oils.html">oils</a></li>
+<li><a href="http://abugail.github.io/recipes/random/onion-soup-mix.html">onion soup-mix</a></li>
+<li><a href="http://abugail.github.io/recipes/random/ranch-mix.html">ranch mix</a></li>
+<li><a href="http://abugail.github.io/recipes/random/taco-seasoning.html">taco seasoning</a></li>
+<li><a href="http://abugail.github.io/recipes/random/tamarind-pulp.html">tamarind pulp</a></li>
+<li><a href="http://abugail.github.io/recipes/random/tortilla.html">tortilla</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/asian-dressing.html">asian dressing</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/caesar-dressing.html">caesar dressing</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/chipotle-mayo.html">chipotle mayo</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/cilantro-lime-sauce.html">cilantro lime-sauce</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/cranberry-compote-2.html">cranberry compote-2</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/cranberry-compote.html">cranberry compote</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/creamy-cauliflower-sauce.html">creamy cauliflower-sauce</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/enchilada-sauce.html">enchilada sauce</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/garlic-aioli.html">garlic aioli</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/ginger-sesame-dressing.html">ginger sesame-dressing</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/greek-salad-dressing.html">greek salad-dressing</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/honey-garlic-sauce.html">honey garlic-sauce</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/italian-dressing.html">italian dressing</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/mango-salsa.html">mango salsa</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/mayonnaise.html">mayonnaise</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/peach-salsa.html">peach salsa</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/peanut-sauce.html">peanut sauce</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/poppyseed-dressing.html">poppyseed dressing</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/ranch-dip.html">ranch dip</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/ranch-dressing-sandra.html">ranch dressing-sandra</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/ranch-dressing.html">ranch dressing</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/ranchero-sauce.html">ranchero sauce</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/sriracha.html">sriracha</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/thai-peanut-sauce.html">thai peanut-sauce</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/thai-sweet-chilli-sauce.html">thai sweet-chilli-sauce</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/thai-three-flavoured-sauce.html">thai three-flavoured-sauce</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/tzatziki.html">tzatziki</a></li>
+<li><a href="http://abugail.github.io/recipes/sauces/tzaziki.html">tzaziki</a></li>
+<li><a href="http://abugail.github.io/recipes/sides/garlic-roasted-potatoes.html">garlic roasted-potatoes</a></li>
+<li><a href="http://abugail.github.io/recipes/sides/scalloped-potatoes.html">scalloped potatoes</a></li>
+<li><a href="http://abugail.github.io/recipes/snacks/coconut-lime-energy-bites.html">coconut lime-energy-bites</a></li>
+<li><a href="http://abugail.github.io/recipes/snacks/peanut-butter-balls.html">peanut butter-balls</a></li>
+</ul>
+    </article>
+  </body>
+</html>
