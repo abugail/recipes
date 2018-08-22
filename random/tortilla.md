@@ -1,12 +1,12 @@
-## Healthy Tortillas :star::star::star::star:
+## Healthy Tortillas ★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | ? mins    | ? mins      | ? mins     |
 
 
-######Makes 8
-######Inspired by: Eat2Live GTA
+###### Makes 8
+###### Inspired by: Eat2Live GTA
 
 ![insert picture here](link to picture)
 
@@ -30,11 +30,11 @@
 ---
 
 ###### Tags
-- [x] Diet
-- [x] Quick
-- [x] Light
-- [x] Easy
-- [x] Needs Nutritional Info
+- ☑ Diet
+- ☑ Quick
+- ☑ Light
+- ☑ Easy
+- ☑ Needs Nutritional Info
 
 
 

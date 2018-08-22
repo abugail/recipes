@@ -1,12 +1,12 @@
-## Chicken Pot Pie Soup :star::star::star::star::star:
+## Chicken Pot Pie Soup ★★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 10 mins    | 30 mins      | 40 mins     |
 
 
-######Serves 6
-######Inspired by: The Garlic Diaries
+###### Serves 6
+###### Inspired by: The Garlic Diaries
 
 ![Not Loading](http://i.imgur.com/eQJufmgl.png)
 
@@ -55,14 +55,14 @@
 ---
 
 ###### Tags
-- [x] Easy
-- [x] Needs Nutritional Info
-- [x] Dinner
-- [x] Chris Favourite
-- [x] Chicken
-- [x] Turkey
-- [x] Soup
-- [x] Comfort Food
+- ☑ Easy
+- ☑ Needs Nutritional Info
+- ☑ Dinner
+- ☑ Chris Favourite
+- ☑ Chicken
+- ☑ Turkey
+- ☑ Soup
+- ☑ Comfort Food
 
 ---
 

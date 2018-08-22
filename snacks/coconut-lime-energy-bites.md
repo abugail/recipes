@@ -1,12 +1,12 @@
-## Coconut Lime Energy Bites :star::star::star::star::star:
+## Coconut Lime Energy Bites ★★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 10 mins    | 0 mins      | 10 mins     |
 
 
-######Serves 12 balls
-######Inspired by: Paleo Grubs
+###### Serves 12 balls
+###### Inspired by: Paleo Grubs
 
 ### Ingredients
 
@@ -30,9 +30,9 @@
 ---
 
 ###### Tags
-- [x] Sandra
-- [x] Snack
-- [x] Healthy
+- ☑ Sandra
+- ☑ Snack
+- ☑ Healthy
 
 
 ---

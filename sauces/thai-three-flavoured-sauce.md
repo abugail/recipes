@@ -5,10 +5,10 @@
 | ? mins    | ? mins      | ? mins     |
 
 
-######Yields 1½ cups of sauce
-######Author: SheSimmers
+###### Yields 1½ cups of sauce
+###### Author: SheSimmers
 
-![Not Loading] (http://i.imgur.com/77Zr6Y5m.jpg)
+![Not Loading](http://i.imgur.com/77Zr6Y5m.jpg)
 
 ### Ingredients
 
@@ -32,25 +32,25 @@
 3. Reduce the sauce down to about 1½ cups; remove from heat. The sauce will thicken up slightly upon cooling.
 4. Store the cooled sauce in a glass jar and refrigerate or freeze.
 
-![Not Loading] (http://i.imgur.com/ZZ6m48bm.jpg)
+![Not Loading](http://i.imgur.com/ZZ6m48bm.jpg)
 
 ---
 
 ###### Tags
-- [x] Fish
-- [x] Tilapia
-- [x] Light
-- [x] Sauce
-- [x] Thai
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Spicy
-- [x] Unrated
-- [x] Sour
-- [x] Sweet
-- [x] Salty
-- [x] Chicken
-- [x] Fried
+- ☑ Fish
+- ☑ Tilapia
+- ☑ Light
+- ☑ Sauce
+- ☑ Thai
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Spicy
+- ☑ Unrated
+- ☑ Sour
+- ☑ Sweet
+- ☑ Salty
+- ☑ Chicken
+- ☑ Fried
 
 ---
 

@@ -5,10 +5,10 @@
 | 10 mins    | 50 mins      | 1hr 10mins |
 
 
-######Serves 8-10
-######Inspired by: SheSimmers
+###### Serves 8-10
+###### Inspired by: SheSimmers
 
-![Not Loading] (http://i.imgur.com/Oyerchal.jpg)
+![Not Loading](http://i.imgur.com/Oyerchal.jpg)
 
 ### Ingredients
 
@@ -29,21 +29,21 @@
 7. When done, the bacon should be somewhat crispy and the tenderloins inside perfectly cooked at an internal temp of 160 °F.
 8. Let it rest, uncovered, for about 10-15 minutes. Then slice and serve with pan juices.
 
-![Not Loading] (http://i.imgur.com/A1t7iZ7m.jpg)
+![Not Loading](http://i.imgur.com/A1t7iZ7m.jpg)
 
-![Not Loading] (http://i.imgur.com/rnAZ2Lsm.jpg)
+![Not Loading](http://i.imgur.com/rnAZ2Lsm.jpg)
 
 ---
 
 ###### Tags
-- [x] Bacon
-- [x] Easy
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Dinner
-- [x] Homecooking
-- [x] Unrated
-- [x] Crowdpleaser
+- ☑ Bacon
+- ☑ Easy
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Dinner
+- ☑ Homecooking
+- ☑ Unrated
+- ☑ Crowdpleaser
 
 ---
 

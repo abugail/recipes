@@ -1,12 +1,12 @@
-## Pad Thai with store bought sauce :star::star::star::star::star:
+## Pad Thai with store bought sauce ★★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 10 mins    | 15 mins      | 25 mins     |
 
 
-######Serves 5
-######Inspired by:BuzzFeed Tasty
+###### Serves 5
+###### Inspired by:BuzzFeed Tasty
 
 ![Not Loading](http://i.imgur.com/eHpNaWUl.png)
 
@@ -45,13 +45,13 @@
 ---
 
 ###### Tags
-- [x] Quick
-- [x] Easy
-- [x] Sauce
-- [x] Thai
-- [x] Needs Nutritional Info
-- [x] Dinner
-- [x] Chris Favourite
+- ☑ Quick
+- ☑ Easy
+- ☑ Sauce
+- ☑ Thai
+- ☑ Needs Nutritional Info
+- ☑ Dinner
+- ☑ Chris Favourite
 
 ---
 

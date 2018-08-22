@@ -5,8 +5,8 @@
 | ? mins    | ? mins      | ? mins     |
 
 
-######Serves ?
-######Inspired by: Emeril
+###### Serves ?
+###### Inspired by: Emeril
 
 ![Not Loading](link to picture)
 
@@ -34,9 +34,9 @@
 ---
 
 ###### Tags
-- [x] Easy
-- [x] Sauce
-- [x] Schnitzel
+- ☑ Easy
+- ☑ Sauce
+- ☑ Schnitzel
 
 ---
 

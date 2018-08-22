@@ -1,12 +1,12 @@
-## Cinnamon Apple Quinoa :star::star::star::star:
+## Cinnamon Apple Quinoa ★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | ? mins    | ? mins      | ? mins     |
 
 
-######Serves 2
-######Inspired by: Eat2Live GTA
+###### Serves 2
+###### Inspired by: Eat2Live GTA
 
 ![Not Loading](http://i.imgur.com/r0drQ67l.png)
 
@@ -29,9 +29,9 @@
 ---
 
 ###### Tags
-- [x] Diet
-- [x] Breakfast
-- [x] Quick
-- [x] Light
-- [x] Easy
-- [x] Needs Nutritional Info
+- ☑ Diet
+- ☑ Breakfast
+- ☑ Quick
+- ☑ Light
+- ☑ Easy
+- ☑ Needs Nutritional Info

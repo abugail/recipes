@@ -1,12 +1,12 @@
-## Scalloped Potatoes :star::star::star::star::star:
+## Scalloped Potatoes ★★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 15 mins    | 45 mins      | 60 mins     |
 
 
-######Serves 8-10
-######Inspired by: Two Peas and Their Pod
+###### Serves 8-10
+###### Inspired by: Two Peas and Their Pod
 
 ![none yet](http://i.imgur.com/IUevUVwl.png)
 
@@ -50,11 +50,11 @@
 ---
 
 ###### Tags
-- [x] Easy
-- [x] Needs Nutritional Info
-- [x] Side Dish
-- [x] Chris Favourite
-- [x] Comfort Food
+- ☑ Easy
+- ☑ Needs Nutritional Info
+- ☑ Side Dish
+- ☑ Chris Favourite
+- ☑ Comfort Food
 
 ---
 

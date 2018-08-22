@@ -1,12 +1,12 @@
-## Ranch Mix :star::star::star::star::star:
+## Ranch Mix ★★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | ? mins    | ? mins      | ? mins     |
 
 
-######Serves ?
-######Inspired by: Self-Reliance
+###### Serves ?
+###### Inspired by: Self-Reliance
 
 ![Not Loading](link to picture)
 
@@ -27,7 +27,7 @@
 ---
 
 ###### Tags
-- [x] packet mix
+- ☑ packet mix
 
 ---
 

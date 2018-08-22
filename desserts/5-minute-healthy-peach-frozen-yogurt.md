@@ -5,8 +5,8 @@
 | 5 mins    | 0 mins      | 5 mins     |
 
 
-######Serves 4
-######Inspired by: Just a Taste
+###### Serves 4
+###### Inspired by: Just a Taste
 
 ![Not Loading](http://i.imgur.com/dCgsrKil.png)
 
@@ -30,13 +30,13 @@
 ---
 
 ###### Tags
-- [x] Quick
-- [x] Light
-- [x] Easy
-- [x] Dessert
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Unrated
+- ☑ Quick
+- ☑ Light
+- ☑ Easy
+- ☑ Dessert
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Unrated
 
 ---
 

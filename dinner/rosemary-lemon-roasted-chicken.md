@@ -5,8 +5,8 @@
 | 10 mins    | 60 mins      | 1 hr 10 mins     |
 
 
-######Serves 4
-######Inspired by: Civilized Caveman
+###### Serves 4
+###### Inspired by: Civilized Caveman
 
 ![Not Loading](http://i.imgur.com/EZqqPxvl.png)
 
@@ -39,14 +39,14 @@
 ---
 
 ###### Tags
-- [x] Diet
-- [x] Light
-- [x] Easy
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Dinner
-- [x] Under 600 cal
-- [x] Unrated
+- ☑ Diet
+- ☑ Light
+- ☑ Easy
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Dinner
+- ☑ Under 600 cal
+- ☑ Unrated
 
 ---
 

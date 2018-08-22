@@ -1,12 +1,12 @@
-## Brown Gravy Mix :star::star::star::star::star:
+## Brown Gravy Mix ★★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 5 mins    | 10 mins      |     |
 
 
-######Serves 4 (when cooked)
-######Inspired by: Keeping it Simple
+###### Serves 4 (when cooked)
+###### Inspired by: Keeping it Simple
 
 ![Not Loading](http://i.imgur.com/xBG0n3W.png)
 
@@ -35,9 +35,9 @@
 ---
 
 ###### Tags
-- [x] Sauce mix
-- [x] Gravy
-- [x] Needs Nutritional Info
+- ☑ Sauce mix
+- ☑ Gravy
+- ☑ Needs Nutritional Info
 
 ---
 

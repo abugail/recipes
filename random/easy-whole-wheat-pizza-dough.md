@@ -5,10 +5,10 @@
 | 10 mins    | 20 mins      | 30 mins     |
 
 
-######Makes two 12" round pizzas
-######Author: Pinch of Yum
+###### Makes two 12" round pizzas
+###### Author: Pinch of Yum
 
-![Not Loading] (http://i.imgur.com/n1QtbT7m.png)
+![Not Loading](http://i.imgur.com/n1QtbT7m.png)
 
 ### Ingredients
 
@@ -36,19 +36,19 @@
 9. Place on a pizza stone.
 10. Add toppings and then bake for about 12-15 minutes
 
-![Not Loading] (http://i.imgur.com/AVJGBGTm.png)
+![Not Loading](http://i.imgur.com/AVJGBGTm.png)
 
 ---
 
 ###### Tags
-- [x] Diet
-- [x] Easy
-- [x] Sauce
-- [x] Want to Try
-- [x] Dinner
-- [x] Under 600 cal
-- [x] Unrated
-- [x] Comfort Food
+- ☑ Diet
+- ☑ Easy
+- ☑ Sauce
+- ☑ Want to Try
+- ☑ Dinner
+- ☑ Under 600 cal
+- ☑ Unrated
+- ☑ Comfort Food
 
 ---
 

@@ -5,10 +5,10 @@
 | 10 mins    | 10 mins      | 20 mins     |
 
 
-######Yields 1 cup
-######Author: SheSimmers
+###### Yields 1 cup
+###### Author: SheSimmers
 
-![Not Loading] (http://i.imgur.com/8uK4UiSm.jpg)
+![Not Loading](http://i.imgur.com/8uK4UiSm.jpg)
 
 ### Ingredients
 
@@ -35,28 +35,28 @@
 6. *The cornstarch will help the sauce to thicken slightly thereby causing nice suspension of the garlic-pepper bits; otherwise, you get a thin sauce with all the little pieces floating on the surface.*
 7. Let cool completely before storing in a glass jar and refrigerate.
 
-![Not Loading] (http://i.imgur.com/ylRJ1icm.jpg)
+![Not Loading](http://i.imgur.com/ylRJ1icm.jpg)
 
 ---
 
 ###### Tags
-- [x] Fish
-- [x] Quick
-- [x] Tilapia
-- [x] Easy
-- [x] Sauce
-- [x] Thai
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Spicy
-- [x] Unrated
-- [x] Sour
-- [x] Sweet
-- [x] Fried
-- [x] Actifry
-- [x] Spring Rolls
-- [x] Chicken
-- [x] Dipping Sauce
+- ☑ Fish
+- ☑ Quick
+- ☑ Tilapia
+- ☑ Easy
+- ☑ Sauce
+- ☑ Thai
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Spicy
+- ☑ Unrated
+- ☑ Sour
+- ☑ Sweet
+- ☑ Fried
+- ☑ Actifry
+- ☑ Spring Rolls
+- ☑ Chicken
+- ☑ Dipping Sauce
 
 ---
 

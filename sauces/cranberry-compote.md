@@ -5,8 +5,8 @@
 | ? mins    | ? mins      | ? mins     |
 
 
-######Serves ?
-######Inspired by: my so called balanced life
+###### Serves ?
+###### Inspired by: my so called balanced life
 
 ![Not Loading](link to picture)
 
@@ -33,9 +33,9 @@
 ---
 
 ###### Tags
-- [x] Easy
-- [x] Sauce
-- [x] Schnitzel
+- ☑ Easy
+- ☑ Sauce
+- ☑ Schnitzel
 
 ---
 

@@ -1,14 +1,14 @@
-##Mexican Street Corn :star::star::star::star::star:
+## Mexican Street Corn ★★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 30 mins    | 20 mins      | 50 mins     |
 
 
-######Serves 3
-######Inspired by: Spiced
+###### Serves 3
+###### Inspired by: Spiced
 
-![Not Loading] (http://i.imgur.com/Q1xgxBF.jpg)
+![Not Loading](http://i.imgur.com/Q1xgxBF.jpg)
 
 ### Ingredients - For the Corn
 
@@ -44,19 +44,19 @@
 9. Remove corn from grill and allow ears to cool slightly.
 10. Pull husks back and discard. Drizzle Crema Sauce across the corn; sprinkle queso cotija and chipotle powder across the tops of corn before serving.
 
-![Not Loading] (http://i.imgur.com/wLTDPYB.jpg)
+![Not Loading](http://i.imgur.com/wLTDPYB.jpg)
 
 ---
 
 ###### Tags
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Chris Favourite
-- [x] Unrated
-- [x] Sweet
-- [x] Salty
-- [x] summer
-- [x] bbq
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Chris Favourite
+- ☑ Unrated
+- ☑ Sweet
+- ☑ Salty
+- ☑ summer
+- ☑ bbq
 
 ---
 

@@ -5,8 +5,8 @@
 | ? mins    | ? mins      | ? mins     |
 
 
-######Serves ?
-######Inspired by: Hispanic Kitchen
+###### Serves ?
+###### Inspired by: Hispanic Kitchen
 
 ![Not Loading](http://i.imgur.com/Dl1aBrgl.png)
 
@@ -35,15 +35,15 @@
 ---
 
 ###### Tags
-- [x] Light
-- [x] Easy
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Dinner
-- [x] Ground Turkey
-- [x] Beef
-- [x] Unrated
-- [x] Comfort Food
+- ☑ Light
+- ☑ Easy
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Dinner
+- ☑ Ground Turkey
+- ☑ Beef
+- ☑ Unrated
+- ☑ Comfort Food
 
 ---
 

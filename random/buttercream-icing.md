@@ -1,12 +1,12 @@
-##Buttercream Icing
+## Buttercream Icing
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | ? mins    | ? mins      | ? mins     |
 
 
-######Makes - A LOT
-######Inspired by: Toni
+###### Makes - A LOT
+###### Inspired by: Toni
 
 ![Not Loading](http://i.imgur.com/1OxTqHPl.png)
 
@@ -40,9 +40,9 @@
 ---
 
 ###### Tags
-- [x] icing
-- [x] cupcakes
-- [x] cakes
+- ☑ icing
+- ☑ cupcakes
+- ☑ cakes
 
 ---
 

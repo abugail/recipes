@@ -1,13 +1,13 @@
-##Creamy Cauliflower Sauce
+## Creamy Cauliflower Sauce
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 5 mins    | 10 mins      | 15 mins     |
 
-######Yields 5 cups
-######Author: Pinch of Yum
+###### Yields 5 cups
+###### Author: Pinch of Yum
 
-![Not Loading] (http://i.imgur.com/VgyzMDOm.png)
+![Not Loading](http://i.imgur.com/VgyzMDOm.png)
 
 ### Ingredients
 
@@ -31,23 +31,23 @@
 6. Blend or puree for several minutes until the sauce is very smooth, adding more broth or milk depending on how thick you want the sauce.
 7. *You may have to do this in batches depending on the size of your blender.*
 
-![Not Loading] (http://i.imgur.com/1LA3TM9m.png)
+![Not Loading](http://i.imgur.com/1LA3TM9m.png)
 ---
 
 ###### Tags
-- [x] Diet
-- [x] Quick
-- [x] Tilapia
-- [x] Light
-- [x] Easy
-- [x] Sauce
-- [x] Want to Try
-- [x] Dinner
-- [x] Under 600 cal
-- [x] Under 400 cal
-- [x] Ground Turkey
-- [x] Unrated
-- [x] Comfort Food
+- ☑ Diet
+- ☑ Quick
+- ☑ Tilapia
+- ☑ Light
+- ☑ Easy
+- ☑ Sauce
+- ☑ Want to Try
+- ☑ Dinner
+- ☑ Under 600 cal
+- ☑ Under 400 cal
+- ☑ Ground Turkey
+- ☑ Unrated
+- ☑ Comfort Food
 
 ---
 

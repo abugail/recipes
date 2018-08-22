@@ -1,12 +1,12 @@
-## Apple Crisp :star::star::star::star::star:
+## Apple Crisp ★★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | ? mins    | ? mins      | ? mins     |
 
 
-######Serves 10
-######Inspired by:Betty Crocker
+###### Serves 10
+###### Inspired by:Betty Crocker
 
 
 ### Ingredients
@@ -31,7 +31,7 @@
 ---
 
 ###### Tags
-- [x] Dessert
+- ☑ Dessert
 
 ---
 

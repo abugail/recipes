@@ -1,12 +1,12 @@
-## Garlic Roasted Potatoes :star::star::star::star::star:
+## Garlic Roasted Potatoes ★★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 10 mins    | 70 mins      | 1 hr 20 mins     |
 
 
-######Serves 8
-######Inspired by: Ina Garten
+###### Serves 8
+###### Inspired by: Ina Garten
 
 ![Not Loading](http://i.imgur.com/ZnvOhhZ.png)
 
@@ -34,11 +34,11 @@
 ---
 
 ###### Tags
-- [x] Easy
-- [x] Needs Nutritional Info
-- [x] Side dish
-- [x] Chris Favourite
-- [x] Comfort Food
+- ☑ Easy
+- ☑ Needs Nutritional Info
+- ☑ Side dish
+- ☑ Chris Favourite
+- ☑ Comfort Food
 
 ---
 

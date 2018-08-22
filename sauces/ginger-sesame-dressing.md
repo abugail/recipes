@@ -5,8 +5,8 @@
 | 10 mins    | 0 mins      | 10 mins     |
 
 
-######Makes ?
-######Inspired by:epicurious
+###### Makes ?
+###### Inspired by:epicurious
 
 ![Not Loading](http://i.imgur.com/gE1G08ql.jpg)
 
@@ -32,17 +32,17 @@
 ---
 
 ###### Tags
-- [x] Diet
-- [x] Quick
-- [x] Light
-- [x] Easy
-- [x] Sauce
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Unrated
-- [x] Sour
-- [x] Sweet
-- [x] Salty
+- ☑ Diet
+- ☑ Quick
+- ☑ Light
+- ☑ Easy
+- ☑ Sauce
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Unrated
+- ☑ Sour
+- ☑ Sweet
+- ☑ Salty
 
 ---
 

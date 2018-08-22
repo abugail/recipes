@@ -1,12 +1,12 @@
-## Healthy Ranch Dressing :star::star::star::star:
+## Healthy Ranch Dressing ★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 5 mins    | 0 mins      | 5 mins     |
 
 
-######Makes 2 cups
-######Inspired by: Eat2LiveGTA
+###### Makes 2 cups
+###### Inspired by: Eat2LiveGTA
 
 ![Not Loading](link to picture)
 
@@ -32,14 +32,14 @@ Enjoy! This will keep covered in the refrigerator for about one week.
 ---
 
 ###### Tags
-- [x] Diet
-- [x] Quick
-- [x] Light
-- [x] Easy
-- [x] Sauce
-- [x] Salad
-- [x] Needs Nutritional Info
-- [x] Dressing
+- ☑ Diet
+- ☑ Quick
+- ☑ Light
+- ☑ Easy
+- ☑ Sauce
+- ☑ Salad
+- ☑ Needs Nutritional Info
+- ☑ Dressing
 
 
 ---

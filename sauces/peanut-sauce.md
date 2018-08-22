@@ -5,8 +5,8 @@
 | 5 mins    | 0 mins      | 5 mins     |
 
 
-######Serves 4
-######Inspired by: KPD
+###### Serves 4
+###### Inspired by: KPD
 
 ![Need picture](link to picture)
 
@@ -28,14 +28,14 @@
 ---
 
 ###### Tags
-- [x] Chicken
-- [x] Quick
-- [x] Easy
-- [x] Sauce
-- [x] Thai
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Unrated
+- ☑ Chicken
+- ☑ Quick
+- ☑ Easy
+- ☑ Sauce
+- ☑ Thai
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Unrated
 
 
 ---

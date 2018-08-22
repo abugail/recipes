@@ -4,8 +4,8 @@
 | ---------- |:------------:| -----------:|
 | 20 mins    | 10 mins      | 30 mins     |
 
-######Serves 4
-######Inspired by: SheSimmers
+###### Serves 4
+###### Inspired by: SheSimmers
 
 ![Not Loading](http://i.imgur.com/ok0IZMpl.jpg)
 
@@ -33,19 +33,19 @@
 ---
 
 ###### Tags
-- [x] Fish
-- [x] Quick
-- [x] Tilapia
-- [x] Light
-- [x] Easy
-- [x] Sauce
-- [x] Thai
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Rice
-- [x] Dinner
-- [x] Unrated
-- [x] Actifry
+- ☑ Fish
+- ☑ Quick
+- ☑ Tilapia
+- ☑ Light
+- ☑ Easy
+- ☑ Sauce
+- ☑ Thai
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Rice
+- ☑ Dinner
+- ☑ Unrated
+- ☑ Actifry
 
 ---
 

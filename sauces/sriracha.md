@@ -5,8 +5,8 @@
 | 10 mins    | 0 mins      | 10 mins     |
 
 
-######Serves ?
-######Inspired by: Eat2Live GTA
+###### Serves ?
+###### Inspired by: Eat2Live GTA
 
 ### Ingredients
 
@@ -23,9 +23,9 @@
 ---
 
 ###### Tags
-- [x] Sandra
-- [x] Sauce
-- [x] Spicy
+- ☑ Sandra
+- ☑ Sauce
+- ☑ Spicy
 
 
 ---

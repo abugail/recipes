@@ -5,8 +5,8 @@
 | 15 mins    | 15 mins      | 30 mins     |
 
 
-######Serves 6
-######Inspired by: Sandi
+###### Serves 6
+###### Inspired by: Sandi
 
 ![Not Loading](link to picture)
 
@@ -49,14 +49,14 @@
 ---
 
 ###### Tags
-- [x] Easy
-- [x] Sauce
-- [x] Thai
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Dinner
-- [x] Unrated
-- [x] Comfort Food
+- ☑ Easy
+- ☑ Sauce
+- ☑ Thai
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Dinner
+- ☑ Unrated
+- ☑ Comfort Food
 
 ---
 

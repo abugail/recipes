@@ -5,8 +5,8 @@
 | 10 mins    | 20 mins      | 30 mins     |
 
 
-######Serves 5
-######Inspired by: Cooking Classy
+###### Serves 5
+###### Inspired by: Cooking Classy
 
 ![Not Loading](http://i.imgur.com/ArBv0rnl.png)
 
@@ -39,20 +39,20 @@
 ---
 
 ###### Tags
-- [x] Diet
-- [x] Lunch
-- [x] Quick
-- [x] Dinner
-- [x] Side
-- [x] Easy
-- [x] Mexican
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Under 600 cal
-- [x] Spicy
-- [x] Unrated
-- [x] Sweet
-- [x] Salty
+- ☑ Diet
+- ☑ Lunch
+- ☑ Quick
+- ☑ Dinner
+- ☑ Side
+- ☑ Easy
+- ☑ Mexican
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Under 600 cal
+- ☑ Spicy
+- ☑ Unrated
+- ☑ Sweet
+- ☑ Salty
 
 ---
 

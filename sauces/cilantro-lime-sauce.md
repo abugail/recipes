@@ -1,12 +1,12 @@
-## Cilantro Lime Sauce :star::star::star::star::star:
+## Cilantro Lime Sauce ★★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 10 mins    | 0 mins      | 10 mins     |
 
 
-######Serves 4
-######Inspired by: Eat2Live GTA
+###### Serves 4
+###### Inspired by: Eat2Live GTA
 
 ### Ingredients
 
@@ -27,8 +27,8 @@
 ---
 
 ###### Tags
-- [x] Sandra
-- [x] Sauce
+- ☑ Sandra
+- ☑ Sauce
 
 ---
 

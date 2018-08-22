@@ -1,14 +1,14 @@
-##Skinny Garlic Parmesan Fettucini Alfredo
+## Skinny Garlic Parmesan Fettucini Alfredo
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | ? mins    | ? mins      | ? mins     |
 
 
-######Serves 4-6
-######Created by: Carlsbad Cravings
+###### Serves 4-6
+###### Created by: Carlsbad Cravings
 
-![Not Loading] (http://i.imgur.com/I1wqnqQl.jpg)
+![Not Loading](http://i.imgur.com/I1wqnqQl.jpg)
 
 ### Ingredients
 
@@ -47,15 +47,15 @@
 ---
 
 ###### Tags
-- [x] Diet
-- [x] Light
-- [x] Easy
-- [x] Sauce
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Dinner
-- [x] Unrated
-- [x] Comfort Food
+- ☑ Diet
+- ☑ Light
+- ☑ Easy
+- ☑ Sauce
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Dinner
+- ☑ Unrated
+- ☑ Comfort Food
 
 ---
 

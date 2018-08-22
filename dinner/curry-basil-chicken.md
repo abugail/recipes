@@ -5,8 +5,8 @@
 | 30 mins    | 4 hours    | 4 hours 30 mins     |
 
 
-######Serves 4
-######Inspired by: 12 Tomatoes
+###### Serves 4
+###### Inspired by: 12 Tomatoes
 
 ![Not Loading](http://i.imgur.com/Nm6zQQkl.png)
 
@@ -53,15 +53,15 @@
 ---
 
 ###### Tags
-- [x] Easy
-- [x] Sauce
-- [x] Thai
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Dinner
-- [x] Unrated
-- [x] Slow Cooker
-- [x] Comfort Food
+- ☑ Easy
+- ☑ Sauce
+- ☑ Thai
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Dinner
+- ☑ Unrated
+- ☑ Slow Cooker
+- ☑ Comfort Food
 
 ---
 

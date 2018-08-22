@@ -5,7 +5,7 @@
 | 5 mins    | 0 mins      | 5 mins     |
 
 
-######Serves 1
+###### Serves 1
 
 ![no picture yet](put link here)
 
@@ -27,16 +27,16 @@
 ---
 
 ###### Tags
-- [x] Diet
-- [x] Lunch
-- [x] Light
-- [x] Easy
-- [x] Want to Try
-- [x] Under 400 cal
-- [x] Unrated
-- [x] Rice
-- [x] Needs Picture
-- [x] Needs Nutritional Info
+- ☑ Diet
+- ☑ Lunch
+- ☑ Light
+- ☑ Easy
+- ☑ Want to Try
+- ☑ Under 400 cal
+- ☑ Unrated
+- ☑ Rice
+- ☑ Needs Picture
+- ☑ Needs Nutritional Info
 
 
 ---

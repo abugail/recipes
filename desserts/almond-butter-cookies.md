@@ -1,12 +1,12 @@
-## Almond Butter Cookies :star::star::star::star::star:
+## Almond Butter Cookies ★★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 10 mins    | 10 mins      | 20 mins     |
 
 
-######Yield 10 cookies
-######Inspired by: Unknown Cookbook
+###### Yield 10 cookies
+###### Inspired by: Unknown Cookbook
 
 ![Not Loading](link to picture)
 
@@ -48,10 +48,10 @@
 ---
 
 ###### Tags
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Desserts
-- [x] Sweets
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Desserts
+- ☑ Sweets
 
 ---
 

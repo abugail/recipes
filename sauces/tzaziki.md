@@ -1,12 +1,12 @@
-##Tzaziki Sauce :star::star::star::star::star:
+## Tzaziki Sauce ★★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 10 mins    | ---      | 10 mins     |
 
 
-######Serving Size: 3 cups
-######Inspired by: Natasha's Kitchen
+###### Serving Size: 3 cups
+###### Inspired by: Natasha's Kitchen
 
 ![Not Loading](http://i.imgur.com/ZDDYHZbl.png)
 
@@ -40,12 +40,12 @@
 ---
 
 ###### Tags
-- [x] Quick
-- [x] Light
-- [x] Easy
-- [x] Sauce
-- [x] Needs Nutritional Info
-- [x] 5 stars
+- ☑ Quick
+- ☑ Light
+- ☑ Easy
+- ☑ Sauce
+- ☑ Needs Nutritional Info
+- ☑ 5 stars
 
 
 ---

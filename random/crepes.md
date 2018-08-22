@@ -5,8 +5,8 @@
 | 5 mins    | 30 mins      | 35 mins     |
 
 
-######Makes 12
-######Inspired by:
+###### Makes 12
+###### Inspired by:
 
 ![Not Loading](link to picture)
 
@@ -36,10 +36,10 @@
 ---
 
 ###### Tags
-- [x] Light
-- [x] Easy
-- [x] Needs Nutritional Info
-- [x] Want to Try
+- ☑ Light
+- ☑ Easy
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
 
 ---
 

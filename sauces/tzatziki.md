@@ -1,12 +1,12 @@
-## Tzatziki :star::star::star::star::star:
+## Tzatziki ★★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 10 mins    | 0 mins      | 10 mins     |
 
 
-######Serves ?
-######Inspired by: Eat2Live GTA
+###### Serves ?
+###### Inspired by: Eat2Live GTA
 
 ### Ingredients
 
@@ -21,8 +21,8 @@
 ---
 
 ###### Tags
-- [x] Sandra
-- [x] Sauce
+- ☑ Sandra
+- ☑ Sauce
 
 
 ---

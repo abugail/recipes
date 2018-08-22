@@ -1,12 +1,12 @@
-## Baked Parmesan Chicken Bites :star::star::star::star::star:
+## Baked Parmesan Chicken Bites ★★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 15 mins    | 15 mins      | 30 mins     |
 
 
-######Serves 2
-######Inspired by: Sugar Apron
+###### Serves 2
+###### Inspired by: Sugar Apron
 
 ![Not Loading](http://i.imgur.com/SnMMgKGl.png)
 
@@ -37,12 +37,12 @@
 ---
 
 ###### Tags
-- [x] Easy
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Dinner
-- [x] Under 600 cal
-- [x] Comfort Food
+- ☑ Easy
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Dinner
+- ☑ Under 600 cal
+- ☑ Comfort Food
 
 ---
 

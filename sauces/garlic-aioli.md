@@ -1,12 +1,12 @@
-## Garlic Aioli :star::star::star::star::star:
+## Garlic Aioli ★★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 5 mins    | 0 mins      | 5 mins     |
 
 
-######Serves 4
-######Inspired by: Sugar Apron
+###### Serves 4
+###### Inspired by: Sugar Apron
 
 ### Ingredients
 
@@ -26,9 +26,9 @@
 ---
 
 ###### Tags
-- [x] Sauce
-- [x] Needs Nutritional Info
-- [x] Want to Try
+- ☑ Sauce
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
 
 ---
 

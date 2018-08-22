@@ -5,14 +5,14 @@
 | 5 mins    | 25 mins      | 30 mins     |
 
 
-######Serves 2
-######Inspired by: Food Faith Fitness
+###### Serves 2
+###### Inspired by: Food Faith Fitness
 
 ![Not Loading](http://i.imgur.com/MZYx4Fql.png)
 
 ### Ingredients
 
-####Curry
+#### Curry
 * ½ tbs coconut oil
 * 1 large carrot, peeled and sliced, about a heaping 1/2 cup
 * 1 small red bell pepper, sliced, about 1 cup
@@ -23,12 +23,12 @@
 * 1 13.5 ounce can full fat coconut milk
 * pinch of salt
 
-####Sweet Potato Noodles
+#### Sweet Potato Noodles
 * 1/2 tablespoon coconut oil
 * 1 large sweet potato, peeled, 250-300 grams
 * pinch of salt
 
-####Mango Salsa
+#### Mango Salsa
 * 1 mango, large, diced, about ¾ cup
 * 2 tbs red onion, diced
 * 1 red chili, thai, minced, adjust to preferred level of spiciness
@@ -58,16 +58,16 @@
 ---
 
 ###### Tags
-- [x] Diet
-- [x] Light
-- [x] Curry
-- [x] Thai
-- [x] Vegan
-- [x] Want to Try
-- [x] Dinner
-- [x] Under 600 cal
-- [x] Gluten Free
-- [x] Unrated
+- ☑ Diet
+- ☑ Light
+- ☑ Curry
+- ☑ Thai
+- ☑ Vegan
+- ☑ Want to Try
+- ☑ Dinner
+- ☑ Under 600 cal
+- ☑ Gluten Free
+- ☑ Unrated
 
 ---
 

@@ -1,12 +1,12 @@
-## Macaroni and Cheese :star::star::star::star::star:
+## Macaroni and Cheese ★★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 10 mins    | 30 mins      | 40 mins     |
 
 
-######Serves 5
-######Inspired by: Betty Crocker
+###### Serves 5
+###### Inspired by: Betty Crocker
 
 ![Not Loading](http://i.imgur.com/BNHFLeA.png)
 
@@ -41,11 +41,11 @@
 ---
 
 ###### Tags
-- [x] Easy
-- [x] Sauce
-- [x] Needs Nutritional Info
-- [x] Dinner
-- [x] Comfort Food
+- ☑ Easy
+- ☑ Sauce
+- ☑ Needs Nutritional Info
+- ☑ Dinner
+- ☑ Comfort Food
 
 ---
 

@@ -1,12 +1,12 @@
-## Taco Seasoining :star::star::star::star::star:
+## Taco Seasoining ★★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 2 mins    |      |    |
 
 
-######Serves 4
-######Inspired by: Self-Reliance
+###### Serves 4
+###### Inspired by: Self-Reliance
 
 ![Not Loading](http://i.imgur.com/ZG7igui.png)
 
@@ -27,8 +27,8 @@
 ---
 
 ###### Tags
-- [x] Easy
-- [x] Seasoning
+- ☑ Easy
+- ☑ Seasoning
 
 ---
 

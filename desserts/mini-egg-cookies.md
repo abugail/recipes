@@ -1,12 +1,12 @@
-## Mini Egg Cookies :star::star::star::star::star:
+## Mini Egg Cookies ★★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 10 mins    | 20 mins      | 30 mins     |
 
 
-######Makes 20-24 cookies
-######Createded by: Chef's Plate
+###### Makes 20-24 cookies
+###### Createded by: Chef's Plate
 
 ![Not Loading](http://i.imgur.com/rin36RTl.png)
 
@@ -52,15 +52,15 @@
 ---
 
 ###### Tags
-- [x] Easy
-- [x] Dessert
-- [x] Cookies
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Chocolate
-- [x] Unrated
-- [x] Sweet
-- [x] Comfort Food
+- ☑ Easy
+- ☑ Dessert
+- ☑ Cookies
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Chocolate
+- ☑ Unrated
+- ☑ Sweet
+- ☑ Comfort Food
 
 ---
 

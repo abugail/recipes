@@ -1,14 +1,14 @@
-## Healthy Mexican Lasagna :star::star::star::star:
+## Healthy Mexican Lasagna ★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 20 mins    | 20 mins      | 40 mins     |
 
 
-######Serves 8
-######Inspired By: Pinch of Yum
+###### Serves 8
+###### Inspired By: Pinch of Yum
 
-![Not Loading] (http://i.imgur.com/yqOKGlnl.png)
+![Not Loading](http://i.imgur.com/yqOKGlnl.png)
 
 ### Ingredients
 
@@ -47,15 +47,15 @@
 ---
 
 ###### Tags
-- [x] Diet
-- [x] Mexican
-- [x] Dinner
-- [x] Under 600 cal
-- [x] Under 400 cal
-- [x] Spicy
-- [x] Ground Turkey
-- [x] Ground Beef
-- [x] 4 stars
+- ☑ Diet
+- ☑ Mexican
+- ☑ Dinner
+- ☑ Under 600 cal
+- ☑ Under 400 cal
+- ☑ Spicy
+- ☑ Ground Turkey
+- ☑ Ground Beef
+- ☑ 4 stars
 
 ---
 

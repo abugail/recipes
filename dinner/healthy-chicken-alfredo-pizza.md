@@ -5,10 +5,10 @@
 | 20 mins    | 20 mins      | 40 mins     |
 
 
-######Serves 16 slices (two 12" pizzas)
-######Inspired by: Pinch of Yum
+###### Serves 16 slices (two 12" pizzas)
+###### Inspired by: Pinch of Yum
 
-![Not Loading] (http://i.imgur.com/27syucbl.png)
+![Not Loading](http://i.imgur.com/27syucbl.png)
 
 ### Ingredients
 
@@ -42,21 +42,21 @@
 > 17g Carbs
 > 9g Protein
 
-![Not Loading] (http://i.imgur.com/GOjaWl4l.png)
+![Not Loading](http://i.imgur.com/GOjaWl4l.png)
 
 ---
 
 ###### Tags
-- [x] Diet
-- [x] Easy
-- [x] Sauce
-- [x] Want to Try
-- [x] Dinner
-- [x] Under 600 cal
-- [x] Under 400 cal
-- [x] Unrated
-- [x] Comfort Food
-- [x] Healthy
+- ☑ Diet
+- ☑ Easy
+- ☑ Sauce
+- ☑ Want to Try
+- ☑ Dinner
+- ☑ Under 600 cal
+- ☑ Under 400 cal
+- ☑ Unrated
+- ☑ Comfort Food
+- ☑ Healthy
 
 ---
 

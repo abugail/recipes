@@ -5,10 +5,10 @@
 | 20 mins    | 10 mins      | 30 mins     |
 
 
-######Serves 4-6
-######Inspired by: SheSimmers
+###### Serves 4-6
+###### Inspired by: SheSimmers
 
-![Not Loading] (http://i.imgur.com/NPwXcz9l.jpg)
+![Not Loading](http://i.imgur.com/NPwXcz9l.jpg)
 
 ### Ingredients
 
@@ -34,23 +34,23 @@
 ---
 
 ###### Tags
-- [x] Fish
-- [x] Quick
-- [x] Tilapia
-- [x] Light
-- [x] Easy
-- [x] Sauce
-- [x] Thai
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Dinner
-- [x] App
-- [x] Spicy
-- [x] Actifry
-- [x] Unrated
-- [x] Sour
-- [x] Sweet
-- [x] Fried
+- ☑ Fish
+- ☑ Quick
+- ☑ Tilapia
+- ☑ Light
+- ☑ Easy
+- ☑ Sauce
+- ☑ Thai
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Dinner
+- ☑ App
+- ☑ Spicy
+- ☑ Actifry
+- ☑ Unrated
+- ☑ Sour
+- ☑ Sweet
+- ☑ Fried
 
 ---
 

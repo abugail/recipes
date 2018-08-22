@@ -5,10 +5,10 @@
 | ? mins    | ? mins      | ? mins     |
 
 
-######Serves 4
-######Inspired by: SheSimmers
+###### Serves 4
+###### Inspired by: SheSimmers
 
-![Not Loading] (http://i.imgur.com/XY6uLFol.jpg)
+![Not Loading](http://i.imgur.com/XY6uLFol.jpg)
 
 ### Ingredients
 
@@ -38,16 +38,16 @@
 ---
 
 ###### Tags
-- [x] Light
-- [x] Thai
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Dessert
-- [x] Unrated
-- [x] Fried
-- [x] Actifry
-- [x] Comfort Food
-- [x] Crowdpleaser
+- ☑ Light
+- ☑ Thai
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Dessert
+- ☑ Unrated
+- ☑ Fried
+- ☑ Actifry
+- ☑ Comfort Food
+- ☑ Crowdpleaser
 
 ---
 

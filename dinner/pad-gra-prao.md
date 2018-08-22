@@ -1,4 +1,4 @@
-## Pad Gra Prao :star::star::star::star::star:
+## Pad Gra Prao ★★★★★
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 |  *10 mins* | *10 mins*| *20 mins*   |
@@ -44,20 +44,20 @@
 ---
 
 ###### Tags
-- [x] Diet
-- [x] Quick
-- [x] Under 600 cal
-- [x] Thai
-- [x] Spicy
-- [x] Dinner
-- [x] Easy
-- [x] Chris Favourite
-- [x] Egg
-- [x] Basil
-- [x] Rice
-- [x] Ground Chicken
-- [x] Ground Turkey
-- [x] Ground Beef
+- ☑ Diet
+- ☑ Quick
+- ☑ Under 600 cal
+- ☑ Thai
+- ☑ Spicy
+- ☑ Dinner
+- ☑ Easy
+- ☑ Chris Favourite
+- ☑ Egg
+- ☑ Basil
+- ☑ Rice
+- ☑ Ground Chicken
+- ☑ Ground Turkey
+- ☑ Ground Beef
 
 ---
 

@@ -1,12 +1,12 @@
-## Peanut Butter Balls :star::star::star::star::star:
+## Peanut Butter Balls ★★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 10 mins    | 0 mins      | 20 mins     |
 
 
-######Serves 20 balls
-######Inspired by: Eat2LiveGTA
+###### Serves 20 balls
+###### Inspired by: Eat2LiveGTA
 
 ### Ingredients
 
@@ -29,9 +29,9 @@
 ---
 
 ###### Tags
-- [x] Sandra
-- [x] Snack
-- [x] Healthy
+- ☑ Sandra
+- ☑ Snack
+- ☑ Healthy
 
 
 ---

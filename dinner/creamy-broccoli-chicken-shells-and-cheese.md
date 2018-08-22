@@ -5,10 +5,10 @@
 | 10 mins    | 20 mins      | 30 mins     |
 
 
-######Serves 5
-######Inspired by: Cooking Classy
+###### Serves 5
+###### Inspired by: Cooking Classy
 
-![Not Loading] (http://i.imgur.com/E4SMemsl.jpg)
+![Not Loading](http://i.imgur.com/E4SMemsl.jpg)
 
 ### Ingredients
 
@@ -45,14 +45,14 @@
 ---
 
 ###### Tags
-- [x] Quick
-- [x] Easy
-- [x] Sauce
-- [x] Want to Try
-- [x] Dinner
-- [x] Under 600 cal
-- [x] Unrated
-- [x] Comfort Food
+- ☑ Quick
+- ☑ Easy
+- ☑ Sauce
+- ☑ Want to Try
+- ☑ Dinner
+- ☑ Under 600 cal
+- ☑ Unrated
+- ☑ Comfort Food
 
 ---
 

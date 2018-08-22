@@ -5,8 +5,8 @@
 | ? mins    | ? mins      | ? mins     |
 
 
-######Makes ?
-######Inspired by: Hispanic Kitchen
+###### Makes ?
+###### Inspired by: Hispanic Kitchen
 
 ![Not Loading](http://i.imgur.com/LXckktdl.png)
 
@@ -38,14 +38,14 @@
 ---
 
 ###### Tags
-- [x] Quick
-- [x] Easy
-- [x] Sauce
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Under 600 cal
-- [x] Spicy
-- [x] Mexican
+- ☑ Quick
+- ☑ Easy
+- ☑ Sauce
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Under 600 cal
+- ☑ Spicy
+- ☑ Mexican
 
 ---
 

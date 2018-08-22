@@ -5,12 +5,12 @@
 | ? mins    | ? mins      | ? mins     |
 
 
-######Serves 6
-######Created by: Carlsbad Cravings
+###### Serves 6
+###### Created by: Carlsbad Cravings
 
 ![Not Loading](http://i.imgur.com/LWv2REql.png)
 
-###Ingredients
+### Ingredients
 
 **Marinade Sauce Ingredients**
 * 2-3 lbs boneless, skinless chicken breasts (cut into 1” pieces)
@@ -68,15 +68,15 @@
 ---
 
 ###### Tags
-- [x] Sauce
-- [x] Thai
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Dinner
-- [x] Unrated
-- [x] Fried
-- [x] Actifry
-- [x] Comfort Food
+- ☑ Sauce
+- ☑ Thai
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Dinner
+- ☑ Unrated
+- ☑ Fried
+- ☑ Actifry
+- ☑ Comfort Food
 
 ---
 

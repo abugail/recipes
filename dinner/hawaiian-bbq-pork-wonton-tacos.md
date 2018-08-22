@@ -5,8 +5,8 @@
 | 30 mins    | 4 hrs      | 4 hrs 30 mins     |
 
 
-######Serves 4-8
-######Inspired by: le creme de la crumb
+###### Serves 4-8
+###### Inspired by: le creme de la crumb
 
 ![Not Loading](http://i.imgur.com/YToHeCm.png)
 
@@ -51,15 +51,15 @@
 ---
 
 ###### Tags
-- [x] slow cooker
-- [x] crock pot
-- [x] Sauce
-- [x] Thai
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Dinner
-- [x] Unrated
-- [x] Fried
+- ☑ slow cooker
+- ☑ crock pot
+- ☑ Sauce
+- ☑ Thai
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Dinner
+- ☑ Unrated
+- ☑ Fried
 
 ---
 

@@ -1,12 +1,12 @@
-## Ranch Dip :star::star::star::star::star:
+## Ranch Dip ★★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 2 mins    |  |     |
 
 
-######Yields 2 cups
-######Inspired by: Self-Reliance
+###### Yields 2 cups
+###### Inspired by: Self-Reliance
 
 ![Not Loading](link to picture)
 
@@ -23,8 +23,8 @@
 ---
 
 ###### Tags
-- [x] Appetizer
-- [x] Needs Nutritional Info
+- ☑ Appetizer
+- ☑ Needs Nutritional Info
 
 
 ---

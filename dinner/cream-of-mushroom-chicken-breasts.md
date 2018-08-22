@@ -5,8 +5,8 @@
 | 10 mins    | 20 mins      | 30 mins     |
 
 
-######Serves 6
-######Inspired by: Kristine Fretwell
+###### Serves 6
+###### Inspired by: Kristine Fretwell
 
 ![Not Loading](http://i.imgur.com/Ih2f9oK.png)
 
@@ -46,18 +46,18 @@
 ---
 
 ###### Tags
-- [x] Diet
-- [x] Fish
-- [x] Quick
-- [x] Tilapia
-- [x] Light
-- [x] Easy
-- [x] Sauce
-- [x] Gluten Free
-- [x] Want to Try
-- [x] Dinner
-- [x] Under 600 cal
-- [x] Unrated
+- ☑ Diet
+- ☑ Fish
+- ☑ Quick
+- ☑ Tilapia
+- ☑ Light
+- ☑ Easy
+- ☑ Sauce
+- ☑ Gluten Free
+- ☑ Want to Try
+- ☑ Dinner
+- ☑ Under 600 cal
+- ☑ Unrated
 
 
 ---

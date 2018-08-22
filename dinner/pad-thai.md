@@ -5,8 +5,8 @@
 | 15 mins    | 15 mins      | 30 mins     |
 
 
-######Serves 4
-######Inspired by: Fatty Arbuckle
+###### Serves 4
+###### Inspired by: Fatty Arbuckle
 
 ![Not Loading](http://i.imgur.com/YtPdH2Z.png)
 
@@ -52,14 +52,14 @@
 ---
 
 ###### Tags
-- [x] Quick
-- [x] Easy
-- [x] Sauce
-- [x] Thai
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Dinner
-- [x] Unrated
+- ☑ Quick
+- ☑ Easy
+- ☑ Sauce
+- ☑ Thai
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Dinner
+- ☑ Unrated
 
 
 ---

@@ -5,10 +5,10 @@
 | 30 mins    | 0 mins      | 30 mins     |
 
 
-######Yields 2 cups of very concentrated tamarind pulp
-######Author: SheSimmers
+###### Yields 2 cups of very concentrated tamarind pulp
+###### Author: SheSimmers
 
-![Not Loading] (http://i.imgur.com/ShCdxpqm.jpg)
+![Not Loading](http://i.imgur.com/ShCdxpqm.jpg)
 
 ### Ingredients
 
@@ -28,17 +28,17 @@
 3. Run the tamarind pulp purée through a sieve to separate out the pulp.
 4. Keep doing this until you end up with nothing but thick and smooth tamarind pulp in the bowl. (as in picture above)
 
-![Not Loading] (http://i.imgur.com/CZitJDbm.jpg)
+![Not Loading](http://i.imgur.com/CZitJDbm.jpg)
 
 ---
 
 ###### Tags
-- [x] Easy
-- [x] Sauce
-- [x] Freezable
-- [x] Thai
-- [x] Needs Nutritional Info
-- [x] Want to Try
+- ☑ Easy
+- ☑ Sauce
+- ☑ Freezable
+- ☑ Thai
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
 
 ---
 

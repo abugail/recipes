@@ -5,7 +5,7 @@
 | 5 mins    | 0 mins      | 5 mins     |
 
 
-######Serves 1
+###### Serves 1
 
 ![no picture yet](put link here)
 
@@ -23,17 +23,17 @@
 ---
 
 ###### Tags
-- [x] Diet
-- [x] Quick
-- [x] Lunch
-- [x] Light
-- [x] Easy
-- [x] Want to Try
-- [x] Under 400 cal
-- [x] Unrated
-- [x] Salad
-- [x] Needs Picture
-- [x] Needs Nutritional Info
+- ☑ Diet
+- ☑ Quick
+- ☑ Lunch
+- ☑ Light
+- ☑ Easy
+- ☑ Want to Try
+- ☑ Under 400 cal
+- ☑ Unrated
+- ☑ Salad
+- ☑ Needs Picture
+- ☑ Needs Nutritional Info
 
 
 ---

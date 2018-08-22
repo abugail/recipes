@@ -5,10 +5,10 @@
 | ? mins    | ? mins      | ? mins     |
 
 
-######Serves 4-5
-######Inspired by: Pinch of Yum
+###### Serves 4-5
+###### Inspired by: Pinch of Yum
 
-![Not Loading] (http://i.imgur.com/pFZuddtl.png)
+![Not Loading](http://i.imgur.com/pFZuddtl.png)
 
 ### Ingredients
 
@@ -39,18 +39,18 @@
 9. Toss the sauce, pasta, and mushrooms together. Add the **olive oil** and water as needed to keep the sauce from getting too thick.
 10. Stir in the **parsley** just before serving.
 
-![Not Loading] (http://i.imgur.com/EyPeCn6m.png)
+![Not Loading](http://i.imgur.com/EyPeCn6m.png)
 
 ---
 
 ###### Tags
-- [x] Quick
-- [x] Easy
-- [x] Sauce
-- [x] Want to Try
-- [x] Dinner
-- [x] Under 600 cal
-- [x] Unrated
+- ☑ Quick
+- ☑ Easy
+- ☑ Sauce
+- ☑ Want to Try
+- ☑ Dinner
+- ☑ Under 600 cal
+- ☑ Unrated
 
 ---
 

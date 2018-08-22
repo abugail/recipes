@@ -5,10 +5,10 @@
 | 10 mins    | 35 mins      | 45 mins    |
 
 
-######Serves 4-5
-######Author: Pinch of Yum
+###### Serves 4-5
+###### Author: Pinch of Yum
 
-![Not Loading] (http://i.imgur.com/biByCFTl.png)
+![Not Loading](http://i.imgur.com/biByCFTl.png)
 
 ### Ingredients
 
@@ -40,21 +40,21 @@
 9. Stir to melt the cheese; add water or milk to adjust consistency as needed. 
 10. Serve with **parsley**, salt, and pepper to taste.
 
-![Not Loading] (http://i.imgur.com/PHD8KJ4m.png)
+![Not Loading](http://i.imgur.com/PHD8KJ4m.png)
 
 ---
 
 ###### Tags
-- [x] Diet
-- [x] Easy
-- [x] Sauce
-- [x] Want to Try
-- [x] Dinner
-- [x] Under 400 cal
-- [x] Unrated
-- [x] Comfort Food
-- [x] Vegetarian
-- [x] Gluten Free
+- ☑ Diet
+- ☑ Easy
+- ☑ Sauce
+- ☑ Want to Try
+- ☑ Dinner
+- ☑ Under 400 cal
+- ☑ Unrated
+- ☑ Comfort Food
+- ☑ Vegetarian
+- ☑ Gluten Free
 
 ---
 

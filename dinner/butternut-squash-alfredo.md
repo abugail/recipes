@@ -1,12 +1,12 @@
-## Butternut Squash Alfredo :star::star::star::star:
+## Butternut Squash Alfredo ★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 10 mins    | 20 mins      | 30 mins     |
 
 
-######Serves 4
-######Inspired by: bowl of delicious
+###### Serves 4
+###### Inspired by: bowl of delicious
 
 ![Not Loading](http://i.imgur.com/W4hrRsal.png)
 
@@ -44,13 +44,13 @@
 ---
 
 ###### Tags
-- [x] Diet
-- [x] Quick
-- [x] Light
-- [x] Easy
-- [x] Sauce
-- [x] Dinner
-- [x] Under 600 cal
+- ☑ Diet
+- ☑ Quick
+- ☑ Light
+- ☑ Easy
+- ☑ Sauce
+- ☑ Dinner
+- ☑ Under 600 cal
 
 ---
 

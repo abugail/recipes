@@ -5,10 +5,10 @@
 | 5 mins    | 60 mins      | 65 mins     |
 
 
-######Serves 5-6
-######Inspired by: Steamy Kitchen
+###### Serves 5-6
+###### Inspired by: Steamy Kitchen
 
-![Not Loading] (http://i.imgur.com/KCuC8OAl.png)
+![Not Loading](http://i.imgur.com/KCuC8OAl.png)
 
 ### Ingredients
 
@@ -39,33 +39,33 @@
 9. Toss well, sprinkle in the **parmesan** cheese and taste to see if you need additional salt.
 10. The spaghetti squash should have a slight crunch (i.e. not mushy) - but if you like it softer, cover the pan and cook 2 more minutes.
 
-![Not Loading] (http://i.imgur.com/UmvS6EBm.png)
+![Not Loading](http://i.imgur.com/UmvS6EBm.png)
 
-![Not Loading] (http://i.imgur.com/zVRSTSxm.png)
+![Not Loading](http://i.imgur.com/zVRSTSxm.png)
 
-![Not Loading] (http://i.imgur.com/KcVOMsFm.png)
+![Not Loading](http://i.imgur.com/KcVOMsFm.png)
 
-![Not Loading] (http://i.imgur.com/04KaY9dm.png)
+![Not Loading](http://i.imgur.com/04KaY9dm.png)
 
-![Not Loading] (http://i.imgur.com/4Jf4D59m.png)
+![Not Loading](http://i.imgur.com/4Jf4D59m.png)
 
-![Not Loading] (http://i.imgur.com/qyhRQEX.png)
+![Not Loading](http://i.imgur.com/qyhRQEX.png)
 
 ---
 
 
 ###### Tags
-- [x] Diet
-- [x] Light
-- [x] Easy
-- [x] Want to Try
-- [x] Dinner
-- [x] Under 600 cal
-- [x] Under 400 cal
-- [x] Under 200 cal
-- [x] Ground Turkey
-- [x] Ground Beef
-- [x] Unrated
+- ☑ Diet
+- ☑ Light
+- ☑ Easy
+- ☑ Want to Try
+- ☑ Dinner
+- ☑ Under 600 cal
+- ☑ Under 400 cal
+- ☑ Under 200 cal
+- ☑ Ground Turkey
+- ☑ Ground Beef
+- ☑ Unrated
 
 ---
 

@@ -1,12 +1,12 @@
-## Chicken and Wild Rice Soup :star::star::star::star::star:
+## Chicken and Wild Rice Soup ★★★★★
 
 | Prep Time  | Cook Time    | Total Time  |
 | ---------- |:------------:| -----------:|
 | 20 mins    | 20 mins      | 40 mins     |
 
 
-######Serves 7
-######Inspired by: Pressure Cooking Today
+###### Serves 7
+###### Inspired by: Pressure Cooking Today
 
 ![Not Loading](http://i.imgur.com/YPqUKJtl.png)
 ### Ingredients
@@ -46,14 +46,14 @@
 ---
 
 ###### Tags
-- [x] Quick
-- [x] Easy
-- [x] Needs Nutritional Info
-- [x] Dinner
-- [x] Chris Favourite
-- [x] Pressure Cooker
-- [x] Soup
-- [x] Comfort Food
+- ☑ Quick
+- ☑ Easy
+- ☑ Needs Nutritional Info
+- ☑ Dinner
+- ☑ Chris Favourite
+- ☑ Pressure Cooker
+- ☑ Soup
+- ☑ Comfort Food
 
 ---
 

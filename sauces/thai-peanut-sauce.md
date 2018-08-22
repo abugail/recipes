@@ -5,10 +5,10 @@
 | 8 mins    | 5 mins      | 13 mins     |
 
 
-######Yields 3½ cups
-######Author: SheSimmers
+###### Yields 3½ cups
+###### Author: SheSimmers
 
-![Not Loading] (http://i.imgur.com/E2vb9DIm.jpg)
+![Not Loading](http://i.imgur.com/E2vb9DIm.jpg)
 
 ### Ingredients
 
@@ -33,14 +33,14 @@
 ---
 
 ###### Tags
-- [x] Quick
-- [x] Light
-- [x] Easy
-- [x] Sauce
-- [x] Thai
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Unrated
+- ☑ Quick
+- ☑ Light
+- ☑ Easy
+- ☑ Sauce
+- ☑ Thai
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Unrated
 
 
 ---

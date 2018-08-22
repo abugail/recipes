@@ -5,8 +5,8 @@
 | 5 mins    | 15 mins      | 20 mins     |
 
 
-######Yields 4 Cups
-######Inspired by: Chungah
+###### Yields 4 Cups
+###### Inspired by: Chungah
 
 ![Not Loading](http://i.imgur.com/uYqVpAOl.png)
 
@@ -36,11 +36,11 @@
 ---
 
 ###### Tags
-- [x] Mexican
-- [x] Sauce
-- [x] Needs Nutritional Info
-- [x] Want to Try
-- [x] Unrated
+- ☑ Mexican
+- ☑ Sauce
+- ☑ Needs Nutritional Info
+- ☑ Want to Try
+- ☑ Unrated
 
 ---
 
