@@ -67,7 +67,7 @@ FOR THE PEANUT SAUCE:
 - ☑ Unrated
 
 ---
-![Nutrition Facts](https://i.imgur.com/othP3vas.png)
+![Nutrition Facts](https://i.imgur.com/othP3vam.png)
 
 [Source](https://www.simplywhisked.com/asian-chicken-wraps/)
 
