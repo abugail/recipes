@@ -45,9 +45,9 @@ FOR THE PEANUT SAUCE:
 6. Divide the chicken and coleslaw between each tortilla
 7. Roll tightly, securing with toothpicks if necessary.
 
-[Imgur](https://i.imgur.com/DV7CtXK.png)
-[Imgur](https://i.imgur.com/Pp7XwDm.png)
-[Imgur](https://i.imgur.com/VRgYFlY.png)
+![Imgur](https://i.imgur.com/DV7CtXK.png)
+![Imgur](https://i.imgur.com/Pp7XwDm.png)
+![Imgur](https://i.imgur.com/VRgYFlYs.png)
 
 
 
@@ -67,7 +67,7 @@ FOR THE PEANUT SAUCE:
 - ☑ Unrated
 
 ---
-![Nutrition Facts](https://i.imgur.com/othP3va.png))
+![Nutrition Facts](https://i.imgur.com/othP3vas.png)
 
 [Source](https://www.simplywhisked.com/asian-chicken-wraps/)
 
