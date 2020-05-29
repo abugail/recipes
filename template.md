@@ -8,7 +8,7 @@
 ###### Serves 4
 ###### Inspired by:
 
-![Not Loading](link to picture)
+![Not Loading](link to picture) - take screen shot and save in imgur - use "large thumbnail" size
 
 ### Ingredients
 
