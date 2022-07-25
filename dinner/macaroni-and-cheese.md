@@ -13,7 +13,7 @@
 ### Ingredients
 
 * 1½ cups uncooked elbow macaroni (5 oz)
-* 2 tbs butter or margarine
+* ¼ butter or margarine
 * 1 small onion, chopped (1/4 cup) 
 * ½ teaspoon salt
 * ¼ tsp pepper
